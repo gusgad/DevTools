@@ -19,3 +19,5 @@
 * Favico.js | Favicon animations - http://lab.ejci.net/favico.js/
 * Materialize CSS | Material design library - http://materializecss.com/
 * WOW Slider - http://wowslider.com/demo.html
+* Origami by Facebook | Design Prototyping for Mobile Apps - http://facebook.github.io/origami/
+* Fonts in Use - http://fontsinuse.com/
