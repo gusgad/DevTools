@@ -21,3 +21,4 @@
 * WOW Slider - http://wowslider.com/demo.html
 * Origami by Facebook | Design Prototyping for Mobile Apps - http://facebook.github.io/origami/
 * Fonts in Use - http://fontsinuse.com/
+* Taucharts | Chart library based on d3.js - https://www.taucharts.com/
