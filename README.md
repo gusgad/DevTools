@@ -22,3 +22,5 @@
 * Origami by Facebook | Design Prototyping for Mobile Apps - http://facebook.github.io/origami/
 * Fonts in Use - http://fontsinuse.com/
 * Taucharts | Chart library based on d3.js - https://www.taucharts.com/
+* Material Progress | Material progress bars - http://lightningtgc.github.io/MProgress.js/
+* Codrops | CSS reference - http://tympanus.net/codrops/css_reference/
