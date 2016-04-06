@@ -24,3 +24,7 @@
 * Taucharts | Chart library based on d3.js - https://www.taucharts.com/
 * Material Progress | Material progress bars - http://lightningtgc.github.io/MProgress.js/
 * Codrops | CSS reference - http://tympanus.net/codrops/css_reference/
+* Icono | CSS icons - http://saeedalipoor.github.io/icono/
+* GitHub Cheatsheet - https://github.com/tiimgreen/github-cheat-sheet
+* Essential JavaScript Links - https://gist.github.com/ericelliott/d576f72441fc1b27dace
+* Font Pair - http://fontpair.co/
