@@ -28,3 +28,4 @@
 * GitHub Cheatsheet - https://github.com/tiimgreen/github-cheat-sheet
 * Essential JavaScript Links - https://gist.github.com/ericelliott/d576f72441fc1b27dace
 * Font Pair - http://fontpair.co/
+* International Telephone Input - http://jackocnr.com/intl-tel-input.html
