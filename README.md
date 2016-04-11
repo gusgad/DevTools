@@ -29,3 +29,8 @@
 * Essential JavaScript Links - https://gist.github.com/ericelliott/d576f72441fc1b27dace
 * Font Pair - http://fontpair.co/
 * International Telephone Input - http://jackocnr.com/intl-tel-input.html
+* Font Family Reunion - http://fontfamily.io/
+* All this | JavaScript 'this' explained - http://bjorn.tipling.com/all-this
+* Testing the hamburger icon | article - http://conversionxl.com/testing-hamburger-icon-revenue/
+* Flux Application Architecture | article - https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e#.fdgq80d0e
+* UX Project Checklist - https://uxchecklist.github.io/
