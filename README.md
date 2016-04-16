@@ -34,3 +34,4 @@
 * Testing the hamburger icon | article - http://conversionxl.com/testing-hamburger-icon-revenue/
 * Flux Application Architecture | article - https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e#.fdgq80d0e
 * UX Project Checklist - https://uxchecklist.github.io/
+* Addy Osmani's Material Design Lite - http://getmdl.io/
