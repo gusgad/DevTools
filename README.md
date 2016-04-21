@@ -40,3 +40,8 @@
 * There is no fold. | Article - http://thereisnofold.tumblr.com/
 * Lazy Loading Google Maps - http://osvaldas.info/lazy-loading-google-maps
 * Free Icons | Best Free Web Icons for Commercial Use - https://ash.guru/blog/free-web-icons/
+* Evil icons - http://evil-icons.io/
+* Javascript MVC Frameworks performance comparison | article - https://www.filamentgroup.com/lab/mv-initial-load-times.html
+* Design Considerations: text on images | CSS Tricks article - http://css-tricks.com/design-considerations-text-images/
+* AppCache by Jake Archibald - https://jakearchibald.com/2014/offline-cookbook/
+* Responsive Type With Only CSS | Medium article - https://medium.com/@ryanallen_com/responsive-type-with-only-css-82b846370cc9#.obr6jiz08
