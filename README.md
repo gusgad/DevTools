@@ -35,3 +35,8 @@
 * Flux Application Architecture | article - https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e#.fdgq80d0e
 * UX Project Checklist - https://uxchecklist.github.io/
 * Addy Osmani's Material Design Lite - http://getmdl.io/
+* Skeleton: Responsive CSS Boilerplate - http://getskeleton.com/
+* JonathanZWhite/AngularJS-Resources - https://github.com/JonathanZWhite/AngularJS-Resources
+* There is no fold. | Article - http://thereisnofold.tumblr.com/
+* Lazy Loading Google Maps - http://osvaldas.info/lazy-loading-google-maps
+* Free Icons | Best Free Web Icons for Commercial Use - https://ash.guru/blog/free-web-icons/
