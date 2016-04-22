@@ -46,3 +46,7 @@
 * AppCache by Jake Archibald - https://jakearchibald.com/2014/offline-cookbook/
 * Responsive Type With Only CSS | Medium article - https://medium.com/@ryanallen_com/responsive-type-with-only-css-82b846370cc9#.obr6jiz08
 * CSSX | CSS in JavaScript - https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/
+* Practical ARIA Examples - http://heydonworks.com/practical_aria_examples/
+* Drag and Drop Interaction Ideas | Codrops - http://tympanus.net/codrops/2014/11/11/drag-and-drop-interaction-ideas/
+* Twitter Emoji (Twemoji) - http://twitter.github.io/twemoji/
+* Everybody Scrolls.| Article - http://www.hugeinc.com/ideas/perspective/everybody-scrolls
