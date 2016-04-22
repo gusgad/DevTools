@@ -45,3 +45,4 @@
 * Design Considerations: text on images | CSS Tricks article - http://css-tricks.com/design-considerations-text-images/
 * AppCache by Jake Archibald - https://jakearchibald.com/2014/offline-cookbook/
 * Responsive Type With Only CSS | Medium article - https://medium.com/@ryanallen_com/responsive-type-with-only-css-82b846370cc9#.obr6jiz08
+* CSSX | CSS in JavaScript - https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/
