@@ -52,3 +52,8 @@
 * Everybody Scrolls.| Article - http://www.hugeinc.com/ideas/perspective/everybody-scrolls
 * Walkway | SVG drawing - https://github.com/ConnorAtherton/walkway
 * Native JS Binding | Article - http://www.sellarafaeli.com/blog/native_javascript_data_binding
+* Performance Rocks - http://perf.rocks/
+* Material UI | Material Design React Components - http://www.material-ui.com/#/
+* Chroma.js - easy color manipulations with JS - https://github.com/gka/chroma.js
+* CSS Dig | CSS analyzer - http://cssdig.com/
+* FnordMetric | Framework for building beautiful real-time dashboards - http://fnordmetric.io/chartsql/
