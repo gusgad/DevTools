@@ -62,3 +62,6 @@
 * 9 basic principles of responsive web design - http://blog.froont.com/9-basic-principles-of-responsive-web-design/
 * MetricsGraphics.js | A library on D3, optimized for visualizing and laying out time-series data - http://metricsgraphicsjs.org/
 * Type Genius | font pairing - http://www.typegenius.com/
+* How To Add Page Transitions with CSS and smoothState.js | CSS-Tricks article - https://css-tricks.com/add-page-transitions-css-smoothstate-js/
+* How to design for thumbs in the Era of Huge Screens / Scott Hurff - http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens
+* Pushy | Off-Canvas Navigation Menu - https://www.christopheryee.ca/pushy/
