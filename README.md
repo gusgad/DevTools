@@ -65,3 +65,7 @@
 * How To Add Page Transitions with CSS and smoothState.js | CSS-Tricks article - https://css-tricks.com/add-page-transitions-css-smoothstate-js/
 * How to design for thumbs in the Era of Huge Screens / Scott Hurff - http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens
 * Pushy | Off-Canvas Navigation Menu - https://www.christopheryee.ca/pushy/
+* OS X Apps with JavaScript by Tyler Gaw - http://tylergaw.com/articles/building-osx-apps-with-js
+* Julius | A speech recognition library for the web - https://github.com/zzmp/juliusjs
+* Midnight.js | Parallax headers on the fly - http://aerolab.github.io/midnight.js/
+* 5 ES6 Array Methods | article - http://colintoh.com/blog/5-array-methods-that-you-should-use-today
