@@ -69,3 +69,6 @@
 * Julius | A speech recognition library for the web - https://github.com/zzmp/juliusjs
 * Midnight.js | Parallax headers on the fly - http://aerolab.github.io/midnight.js/
 * 5 ES6 Array Methods | article - http://colintoh.com/blog/5-array-methods-that-you-should-use-today
+* Getting Started with CSS Shapes | Article - http://www.html5rocks.com/en/tutorials/shapes/getting-started/
+* SweetAlert - http://t4t5.github.io/sweetalert/
+* AngularJS Tutorial | a comprehensive 10,000 word guide - https://www.airpair.com/angularjs
