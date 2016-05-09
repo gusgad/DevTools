@@ -72,3 +72,7 @@
 * Getting Started with CSS Shapes | Article - http://www.html5rocks.com/en/tutorials/shapes/getting-started/
 * SweetAlert - http://t4t5.github.io/sweetalert/
 * AngularJS Tutorial | a comprehensive 10,000 word guide - https://www.airpair.com/angularjs
+* A binary challenge game for noobs - http://husgad.github.io/BinaryforNoobs/
+* Touchy | jQuery plugin for touch events - https://github.com/HotStudio/touchy
+* TouchSwipe - a jquery plugin to be used with jQuery on touch input devices such as iPad, iPhone etc. - http://labs.rampinteractive.co.uk/touchSwipe/demos/
+* All You Need To Know About Vertical-Align | Christopher Aue's article - http://christopheraue.net/2014/03/05/vertical-align/
