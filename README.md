@@ -76,3 +76,7 @@
 * Touchy | jQuery plugin for touch events - https://github.com/HotStudio/touchy
 * TouchSwipe - a jquery plugin to be used with jQuery on touch input devices such as iPad, iPhone etc. - http://labs.rampinteractive.co.uk/touchSwipe/demos/
 * All You Need To Know About Vertical-Align | Christopher Aue's article - http://christopheraue.net/2014/03/05/vertical-align/
+* Centering in CSS: A Complete Guide | CSS-Tricks article - https://css-tricks.com/centering-css-complete-guide/
+* TURNBOX.js - http://noht.co.jp/turnbox
+* Strip | AResponsive Iamge Lightbox - http://www.stripjs.com/
+* Drawer | A  jQuery Navigation menu plugin - http://git.blivesta.com/drawer/
