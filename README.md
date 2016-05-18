@@ -80,3 +80,7 @@
 * TURNBOX.js - http://noht.co.jp/turnbox
 * Strip | AResponsive Iamge Lightbox - http://www.stripjs.com/
 * Drawer | A  jQuery Navigation menu plugin - http://git.blivesta.com/drawer/
+* DataCollection.js | Manipulate data from API responses with ease. - http://thestorefront.github.io/DataCollection.js/
+* Native Responsive Images | article - http://dev.opera.com/articles/native-responsive-images/
+* Tab Styles Inspiration | Codrops article - http://tympanus.net/codrops/2014/09/02/tab-styles-inspiration/
+* 
