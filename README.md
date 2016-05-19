@@ -83,4 +83,8 @@
 * DataCollection.js | Manipulate data from API responses with ease. - http://thestorefront.github.io/DataCollection.js/
 * Native Responsive Images | article - http://dev.opera.com/articles/native-responsive-images/
 * Tab Styles Inspiration | Codrops article - http://tympanus.net/codrops/2014/09/02/tab-styles-inspiration/
-* 
+* Favicons, Touch Icons, Tile Icons, etc. What All Do You Need? | CSS-Tricks article - https://css-tricks.com/favicon-quiz/
+* jQuery Focuspoint | jQuery plugin for 'responsive cropping' - https://github.com/jonom/jquery-focuspoint
+* Making SVGs Responsive with CSS | Codrops article - http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/
+* Timesheet.js | Open time tables with HTML, JavaScript and CSS - http://semu.github.io/timesheet.js/
+* CSS Guidelines (2.0.15) - http://cssguidelin.es/
