@@ -88,3 +88,8 @@
 * Making SVGs Responsive with CSS | Codrops article - http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/
 * Timesheet.js | Open time tables with HTML, JavaScript and CSS - http://semu.github.io/timesheet.js/
 * CSS Guidelines (2.0.15) - http://cssguidelin.es/
+* Designer's guide to DPI | article - http://sebastien-gabriel.com/designers-guide-to-dpi/
+* Chartist | Simple responsive charts - http://gionkunz.github.io/chartist-js/
+* 7 Habits of Highly Effective Media Queries | Brad Frost Web article - http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/
+* Victor.js | 2D Vectors for JavaScript - http://victorjs.org/
+* Pure CSS parallax scrolling websites | Keith Clark's article - blog.keithclark.co.uk/pure-css-parallax-websites/
