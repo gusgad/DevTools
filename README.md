@@ -93,3 +93,4 @@
 * 7 Habits of Highly Effective Media Queries | Brad Frost Web article - http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/
 * Victor.js | 2D Vectors for JavaScript - http://victorjs.org/
 * Pure CSS parallax scrolling websites | Keith Clark's article - blog.keithclark.co.uk/pure-css-parallax-websites/
+* Waves | Google's Material Design on-click waves - http://fian.my.id/Waves/
