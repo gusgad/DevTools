@@ -94,3 +94,4 @@
 * Victor.js | 2D Vectors for JavaScript - http://victorjs.org/
 * Pure CSS parallax scrolling websites | Keith Clark's article - blog.keithclark.co.uk/pure-css-parallax-websites/
 * Waves | Google's Material Design on-click waves - http://fian.my.id/Waves/
+* Easings | a list of useful easing properties - http://easings.net/
