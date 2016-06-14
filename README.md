@@ -96,3 +96,6 @@
 * Waves | Google's Material Design on-click waves - http://fian.my.id/Waves/
 * Easings | a list of useful easing properties - http://easings.net/
 * SetCronjobs | a cronjob service - https://www.setcronjob.com/
+* heatmap.js | Dynamic Heatmaps for the Web - https://www.patrick-wied.at/static/heatmapjs/
+* HTML5 device mockups - https://github.com/pixelsign/html5-device-mockups
+* CSS Triggers Website - https://csstriggers.com/
