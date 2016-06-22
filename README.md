@@ -99,3 +99,4 @@
 * heatmap.js | Dynamic Heatmaps for the Web - https://www.patrick-wied.at/static/heatmapjs/
 * HTML5 device mockups - https://github.com/pixelsign/html5-device-mockups
 * CSS Triggers Website - https://csstriggers.com/
+* A Minimalistic Wrapper for IndexedDB - http://dexie.org/
