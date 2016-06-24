@@ -100,3 +100,6 @@
 * HTML5 device mockups - https://github.com/pixelsign/html5-device-mockups
 * CSS Triggers Website - https://csstriggers.com/
 * A Minimalistic Wrapper for IndexedDB - http://dexie.org/
+* Shoelace - Visual Bootstrap 3 Grid Builder - http://shoelace.io/
+* Creating distraction-free reading experiences | azumbrunnen - http://azumbrunnen.me/blog/creating-distraction-free-reading-experiences/
+* Pure CSS One Div Weather Animated Icons - http://codepen.io/fbrz/full/iqtlk
