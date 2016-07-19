@@ -103,3 +103,4 @@
 * Shoelace - Visual Bootstrap 3 Grid Builder - http://shoelace.io/
 * Creating distraction-free reading experiences | azumbrunnen - http://azumbrunnen.me/blog/creating-distraction-free-reading-experiences/
 * Pure CSS One Div Weather Animated Icons - http://codepen.io/fbrz/full/iqtlk
+* jQuery DrawSVG | Lightweight, simple to use jQuery plugin to animate SVG paths - http://lcdsantos.github.io/jquery-drawsvg/
