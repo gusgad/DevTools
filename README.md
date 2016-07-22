@@ -104,3 +104,6 @@
 * Creating distraction-free reading experiences | azumbrunnen - http://azumbrunnen.me/blog/creating-distraction-free-reading-experiences/
 * Pure CSS One Div Weather Animated Icons - http://codepen.io/fbrz/full/iqtlk
 * jQuery DrawSVG | Lightweight, simple to use jQuery plugin to animate SVG paths - http://lcdsantos.github.io/jquery-drawsvg/
+* howler.js | Audio library for the modern web. - https://howlerjs.com/?utm_source=javascriptweekly&utm_medium=email
+* ZingChart | ZingChart lets developers build better, more engaging JavaScript charts - https://www.zingchart.com/
+* 
