@@ -108,3 +108,5 @@
 * ZingChart | ZingChart lets developers build better, more engaging JavaScript charts - https://www.zingchart.com/
 * Coverr | beautiful, free videos for your homepage - http://coverr.co/
 * CSS Spinners - http://projects.lukehaas.me/css-loaders/
+* Pattern Overlays for Low Quality Images and Videos - http://html5backgroundvideos.com/pattern-overlays/
+* 100 Backgrounds | Mega-pack of 100 cool backgrounds you can use for your apps. - http://freebies.flatro.ru/100-Backgrounds
