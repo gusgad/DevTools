@@ -110,3 +110,4 @@
 * CSS Spinners - http://projects.lukehaas.me/css-loaders/
 * Pattern Overlays for Low Quality Images and Videos - http://html5backgroundvideos.com/pattern-overlays/
 * 100 Backgrounds | Mega-pack of 100 cool backgrounds you can use for your apps. - http://freebies.flatro.ru/100-Backgrounds
+* Google's guide to good programming - https://tproger.ru/articles/google-guide-to-programming/
