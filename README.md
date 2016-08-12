@@ -112,3 +112,4 @@
 * 100 Backgrounds | Mega-pack of 100 cool backgrounds you can use for your apps. - http://freebies.flatro.ru/100-Backgrounds
 * Google's guide to good programming - https://tproger.ru/articles/google-guide-to-programming/
 * Real favicon generator - http://realfavicongenerator.net/
+* SVG Градиенты - http://css.yoksel.ru/svg-gradients/
