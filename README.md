@@ -113,3 +113,4 @@
 * Google's guide to good programming - https://tproger.ru/articles/google-guide-to-programming/
 * Real favicon generator - http://realfavicongenerator.net/
 * SVG Градиенты - http://css.yoksel.ru/svg-gradients/
+* 38 Web Design goodies - http://say-hi.me/design/web-design/38-besplatnyx-poleznostej-dlya-veb-dizajnerov.html
