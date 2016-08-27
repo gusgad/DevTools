@@ -115,3 +115,4 @@
 * SVG Градиенты - http://css.yoksel.ru/svg-gradients/
 * 38 Web Design goodies - http://say-hi.me/design/web-design/38-besplatnyx-poleznostej-dlya-veb-dizajnerov.html
 * Service Worker tricks - https://madebymike.com.au//writing/service-workers/?utm_source=javascriptweekly&utm_medium=email
+* particles.js | a lightweight particles canvas library - https://github.com/VincentGarreau/particles.js/
