@@ -120,3 +120,4 @@
 * AOS - simple JavaScript plugin for on-scroll animations - http://michalsnik.github.io/aos/
 * Masonry | Masonry is a JavaScript grid layout library. It works by placing elements in optimal position based on available vertical space, sort of like a mason fitting stones in a wall.  - http://masonry.desandro.com/
 * Animatedmodal.js - http://joaopereirawd.github.io/animatedModal.js/
+* GraphicsJS | A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology - http://www.graphicsjs.org/?utm_source=javascriptweekly&utm_medium=email
