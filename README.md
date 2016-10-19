@@ -123,3 +123,4 @@
 * GraphicsJS | A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology - http://www.graphicsjs.org/?utm_source=javascriptweekly&utm_medium=email
 * PixelHint | free psd templates - http://pixelhint.com/
 * jQuery CheatSheet - http://youmightnotneedjquery.com/
+* Granim.js | A Beautiful JS Gradient library - https://sarcadass.github.io/granim.js/examples.html
