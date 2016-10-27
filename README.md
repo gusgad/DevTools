@@ -124,3 +124,4 @@
 * PixelHint | free psd templates - http://pixelhint.com/
 * jQuery CheatSheet - http://youmightnotneedjquery.com/
 * Granim.js | A Beautiful JS Gradient library - https://sarcadass.github.io/granim.js/examples.html
+* JS Dev Stack | Step-by-step tutorial to build a modern JavaScript stack from scratch - https://github.com/verekia/js-stack-from-scratch
