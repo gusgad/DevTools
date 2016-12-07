@@ -128,3 +128,4 @@
 * Cookie popups - https://cookie-script.com/
 * ml.js | Machine Learning tools - https://github.com/mljs/ml
 * List of ML frameworks for every language | josephmisiti - https://github.com/josephmisiti/awesome-machine-learning
+* YoptaScript | язык программирования для гопников :D - https://yopta.space/
