@@ -130,3 +130,4 @@
 * List of ML frameworks for every language | josephmisiti - https://github.com/josephmisiti/awesome-machine-learning
 * YoptaScript | язык программирования для гопников :D - https://yopta.space/
 * date-fns - https://date-fns.org/
+* Jacks | Analyzie security issues of the website - https://jacks.codiscope.com/landing.html
