@@ -131,3 +131,4 @@
 * YoptaScript | язык программирования для гопников :D - https://yopta.space/
 * date-fns - https://date-fns.org/
 * Jacks | Analyzie security issues of the website - https://jacks.codiscope.com/landing.html
+* Responsive email tips - https://www.shopify.com/partners/blog/dirty-css-hacks-for-responsive-emails
