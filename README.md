@@ -133,3 +133,4 @@
 * Jacks | Analyzie security issues of the website - https://jacks.codiscope.com/landing.html
 * Responsive email tips - https://www.shopify.com/partners/blog/dirty-css-hacks-for-responsive-emails
 * FullPage.js - FullScreen scrolling websites plugin - http://alvarotrigo.com/fullPage/#firstPage
+* uiGradients | cool css gradient palette - https://uigradients.com/
