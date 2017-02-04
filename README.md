@@ -134,3 +134,4 @@
 * Responsive email tips - https://www.shopify.com/partners/blog/dirty-css-hacks-for-responsive-emails
 * FullPage.js - FullScreen scrolling websites plugin - http://alvarotrigo.com/fullPage/#firstPage
 * uiGradients | cool css gradient palette - https://uigradients.com/
+* CSS Patterns Gallwry- Lea Verou| backrounds - http://lea.verou.me/css3patterns/
