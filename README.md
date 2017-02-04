@@ -135,3 +135,4 @@
 * FullPage.js - FullScreen scrolling websites plugin - http://alvarotrigo.com/fullPage/#firstPage
 * uiGradients | cool css gradient palette - https://uigradients.com/
 * CSS Patterns Gallwry- Lea Verou| backrounds - http://lea.verou.me/css3patterns/
+* range.css | CSS style generator for range inputs - http://danielstern.ca/range.css/#/
