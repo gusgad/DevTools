@@ -138,3 +138,4 @@
 * range.css | CSS style generator for range inputs - http://danielstern.ca/range.css/#/
 * iOS and Android styling differences - https://webdesign.tutsplus.com/articles/a-tale-of-two-platforms-designing-for-both-android-and-ios--cms-23616
 * Hero Patterns | free repeated svg background patterns - http://www.heropatterns.com/
+* TEMPLATED | free landing-page templates - https://templated.co/
