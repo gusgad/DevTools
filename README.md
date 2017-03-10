@@ -139,3 +139,4 @@
 * iOS and Android styling differences - https://webdesign.tutsplus.com/articles/a-tale-of-two-platforms-designing-for-both-android-and-ios--cms-23616
 * Hero Patterns | free repeated svg background patterns - http://www.heropatterns.com/
 * TEMPLATED | free landing-page templates - https://templated.co/
+* Natural language detection in pure JS| Franc - http://wooorm.com/franc/
