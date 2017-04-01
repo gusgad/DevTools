@@ -140,3 +140,4 @@
 * Hero Patterns | free repeated svg background patterns - http://www.heropatterns.com/
 * TEMPLATED | free landing-page templates - https://templated.co/
 * Natural language detection in pure JS| Franc - http://wooorm.com/franc/
+* JavaScript graphic library | Amcharts - https://www.amcharts.com
