@@ -141,4 +141,6 @@
 * TEMPLATED | free landing-page templates - https://templated.co/
 * Natural language detection in pure JS| Franc - http://wooorm.com/franc/
 * JavaScript graphic library | Amcharts - https://www.amcharts.com
+* embedo | A simple, fast, lightweight and standalone social media content embedder plugin for web - https://atomiks.github.io/tippyjs/
 * Tippy.js | A lightweight, pure JavaScript tooltip library - https://atomiks.github.io/tippyjs/
+
