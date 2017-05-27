@@ -145,3 +145,5 @@
 * Tippy.js | A lightweight, pure JavaScript tooltip library - https://atomiks.github.io/tippyjs/
 * UPNG | A lossless PNG encoder - https://github.com/photopea/UPNG.js
 * Butternut | A cutting edge JS minifier - https://github.com/Rich-Harris/butternut
+* React Sketchapp | render React components to Sketch - https://github.com/airbnb/react-sketchapp
+* EnjoyCSS | advanced CSS3 code generator - http://enjoycss.com/
