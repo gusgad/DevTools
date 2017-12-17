@@ -148,3 +148,6 @@
 * React Sketchapp | render React components to Sketch - https://github.com/airbnb/react-sketchapp
 * EnjoyCSS | advanced CSS3 code generator - http://enjoycss.com/
 * Draggable JS | Drag & drop and much much more from Shopify - https://shopify.github.io/draggable/
+* 30-seconds-of-code | Curated collection of useful Javascript snippets that you can understand in 30 seconds or less. - https://github.com/Chalarangelo/30-seconds-of-code#readme
+* billboard.js | Re-usable, easy interface JavaScript chart library, based on D3 v4+. - https://naver.github.io/billboard.js/
+* Popmotion | A functional JavaScript motion library -https://popmotion.io/
