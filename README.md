@@ -151,3 +151,4 @@
 * 30-seconds-of-code | Curated collection of useful Javascript snippets that you can understand in 30 seconds or less. - https://github.com/Chalarangelo/30-seconds-of-code#readme
 * billboard.js | Re-usable, easy interface JavaScript chart library, based on D3 v4+. - https://naver.github.io/billboard.js/
 * Popmotion | A functional JavaScript motion library -https://popmotion.io/
+* bestof.js | The best of JavaScript, HTML and CSS - https://bestof.js.org/
