@@ -152,3 +152,4 @@
 * billboard.js | Re-usable, easy interface JavaScript chart library, based on D3 v4+. - https://naver.github.io/billboard.js/
 * Popmotion | A functional JavaScript motion library -https://popmotion.io/
 * bestof.js | The best of JavaScript, HTML and CSS - https://bestof.js.org/
+* Boxy SVG Editor | SCALABLE VECTOR GRAPHICS EDITOR - https://boxy-svg.com/
