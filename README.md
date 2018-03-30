@@ -153,3 +153,4 @@
 * Popmotion | A functional JavaScript motion library -https://popmotion.io/
 * bestof.js | The best of JavaScript, HTML and CSS - https://bestof.js.org/
 * Boxy SVG Editor | SCALABLE VECTOR GRAPHICS EDITOR - https://boxy-svg.com/
+* Flat Surface Shader | Cool Delaunay triangles with animations - http://matthew.wagerfield.com/flat-surface-shader/
