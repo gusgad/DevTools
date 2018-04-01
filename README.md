@@ -56,7 +56,6 @@
 * Material UI | Material Design React Components - http://www.material-ui.com/#/
 * Chroma.js - easy color manipulations with JS - https://github.com/gka/chroma.js
 * CSS Dig | CSS analyzer - http://cssdig.com/
-* FnordMetric | Framework for building beautiful real-time dashboards - http://fnordmetric.io/chartsql/
 * Coolors | Fast color palettes generator! - http://coolors.co/app/dacdbd-f2b8a0-ef97a3-df5c7e-d4486f
 * vivus.js | svg animation - http://maxwellito.github.io/vivus/
 * 9 basic principles of responsive web design - http://blog.froont.com/9-basic-principles-of-responsive-web-design/
