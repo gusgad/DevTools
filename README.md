@@ -155,3 +155,4 @@
 * Flat Surface Shader | Cool Delaunay triangles with animations - http://matthew.wagerfield.com/flat-surface-shader/
 * Glide.js | A dependency-free JavaScript ES6 slider and carousel. - https://glidejs.com/
 * Webpack configurator - http://web.jakoblind.no/webpack-config/
+* Hot Tips CSS | tutorial https://equinsuocha.io/blog/hot-tips-css/
