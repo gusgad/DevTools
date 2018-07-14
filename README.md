@@ -159,3 +159,4 @@
 * Naked Domain Redirect | redirecting naked domains to www - https://www.nakeddomainredirect.com/
 * WWWizer | redirecting naked domains to www - http://wwwizer.com/
 * Web Push Notification generator - https://tests.peter.sh/notification-generator/
+* Clippy | clip path for CSS backgrounds - https://bennettfeely.com/clippy/
