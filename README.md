@@ -162,3 +162,4 @@
 * Clippy | clip path for CSS backgrounds - https://bennettfeely.com/clippy/
 * React particle effect button - https://github.com/transitive-bullshit/react-particle-effect-button
 * CSS shape-outside playground - https://olivierforget.net/css-shape-outside/
+* Ten rules of good Product Design | Medium article - https://uxdesign.cc/ten-rules-of-good-design-e3dcabc61bc
