@@ -164,3 +164,4 @@
 * CSS shape-outside playground - https://olivierforget.net/css-shape-outside/
 * Ten rules of good Product Design | Medium article - https://uxdesign.cc/ten-rules-of-good-design-e3dcabc61bc
 * Spacetime | A lightweight javascript timezone library - https://github.com/spencermountain/spacetime
+* T-Writer.js | a native typewriter-effect library - https://chriscavs.github.io/t-writer-demo/
