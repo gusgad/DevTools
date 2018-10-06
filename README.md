@@ -165,3 +165,5 @@
 * Ten rules of good Product Design | Medium article - https://uxdesign.cc/ten-rules-of-good-design-e3dcabc61bc
 * Spacetime | A lightweight javascript timezone library - https://github.com/spencermountain/spacetime
 * T-Writer.js | a native typewriter-effect library - https://chriscavs.github.io/t-writer-demo/
+* comlink | Comlink makes WebWorkers enjoyable. - https://github.com/GoogleChromeLabs/comlink
+* husky | Husky can prevent bad git commit, git push and more, hooks - https://github.com/typicode/husky
