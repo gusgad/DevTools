@@ -167,3 +167,4 @@
 * T-Writer.js | a native typewriter-effect library - https://chriscavs.github.io/t-writer-demo/
 * comlink | Comlink makes WebWorkers enjoyable. - https://github.com/GoogleChromeLabs/comlink
 * husky | Husky can prevent bad git commit, git push and more, hooks - https://github.com/typicode/husky
+* NakedSSL | Daked domain redirect - https://www.nakedssl.com/
