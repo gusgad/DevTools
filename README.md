@@ -169,3 +169,4 @@
 * husky | Husky can prevent bad git commit, git push and more, hooks - https://github.com/typicode/husky
 * NakedSSL | Daked domain redirect - https://www.nakedssl.com/
 * Router | A Simple Framework-Agnostic Router - https://github.com/kevindurb/router
+* Screenshoter | Make website screenshots from the command line - https://github.com/vladocar/screenshoteer
