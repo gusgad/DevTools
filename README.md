@@ -172,4 +172,5 @@
 * Screenshoter | Make website screenshots from the command line - https://github.com/vladocar/screenshoteer
 * forgJS | ForgJs is a javascript lightweight form validator - https://github.com/oussamahamdaoui/forgJs
 * jsPDF | Client-side JavaScript PDF - https://github.com/MrRio/jsPDF
-* 
+* Progress estimator | terminal progress bar - https://github.com/bvaughn/progress-estimator
+* JS Best Practices - https://github.com/elsewhencode/project-guidelines
