@@ -170,3 +170,6 @@
 * NakedSSL | Daked domain redirect - https://www.nakedssl.com/
 * Router | A Simple Framework-Agnostic Router - https://github.com/kevindurb/router
 * Screenshoter | Make website screenshots from the command line - https://github.com/vladocar/screenshoteer
+* forgJS | ForgJs is a javascript lightweight form validator - https://github.com/oussamahamdaoui/forgJs
+* jsPDF | Client-side JavaScript PDF - https://github.com/MrRio/jsPDF
+* 
