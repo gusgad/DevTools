@@ -175,3 +175,4 @@
 * Progress estimator | terminal progress bar - https://github.com/bvaughn/progress-estimator
 * JS Best Practices - https://github.com/elsewhencode/project-guidelines
 * Smarter Timeouts - https://github.com/rommelsantor/Timeout
+* shiny | Shiny reflections for mobile websites - https://github.com/rikschennink/shiny
