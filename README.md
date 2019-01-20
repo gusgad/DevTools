@@ -178,3 +178,5 @@
 * shiny | Shiny reflections for mobile websites - https://github.com/rikschennink/shiny
 * HotKeys.js | A robust Javascript library for capturing keyboard input. - https://github.com/jaywcjlove/hotkeys/
 * Anime.js | JavaScript animation engine - https://github.com/juliangarnier/anime/
+* string-similarity | Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance. https://github.com/aceakash/string-similarity
+* low.js | Node.js for microcontrollers - https://github.com/neonious/lowjs
