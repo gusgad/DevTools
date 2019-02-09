@@ -182,3 +182,6 @@
 * low.js | Node.js for microcontrollers - https://github.com/neonious/lowjs
 * Finance.js | A JavaScript library for common financial calculations - https://github.com/ebradyjobory/finance.js
 * flexsearch | Next-Generation full text search library for Browser and Node.js - https://github.com/nextapps-de/flexsearch
+* TypeIt.js | The most versatile animated typing utility on the planet - https://github.com/alexmacarthur/typeit
+* uppy | The next open source file uploader for web browsers - https://github.com/transloadit/uppy
+* x-spreadsheet | A web-based JavaScript spreadsheet - https://github.com/myliang/x-spreadsheet
