@@ -185,3 +185,4 @@
 * TypeIt.js | The most versatile animated typing utility on the planet - https://github.com/alexmacarthur/typeit
 * uppy | The next open source file uploader for web browsers - https://github.com/transloadit/uppy
 * x-spreadsheet | A web-based JavaScript spreadsheet - https://github.com/myliang/x-spreadsheet
+* cryption | In-Browser AES File Encryption - https://github.com/lagmoellertim/cryption/
