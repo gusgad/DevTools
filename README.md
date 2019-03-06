@@ -188,3 +188,4 @@
 * cryption | In-Browser AES File Encryption - https://github.com/lagmoellertim/cryption/
 * OneSignal | High volume, cross platform 
 push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
+* gpu.js | GPU Accelerated JavaScript https://github.com/gpujs/gpu.js
