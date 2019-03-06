@@ -189,3 +189,4 @@
 * OneSignal | High volume, cross platform 
 push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * gpu.js | GPU Accelerated JavaScript https://github.com/gpujs/gpu.js
+* Autonumeric.js | a standalone library that provides live as-you-type formatting for international numbers and currencies - https://github.com/autoNumeric/autoNumeric/
