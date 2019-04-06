@@ -192,3 +192,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * Autonumeric.js | a standalone library that provides live as-you-type formatting for international numbers and currencies - https://github.com/autoNumeric/autoNumeric/
 * micromodal | Tiny javascript library for creating accessible modal dialogs - https://github.com/Ghosh/micromodal
 * nlp.js | An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more - https://github.com/axa-group/nlp.js
+* is-online | Check if the internet connection is up - https://github.com/sindresorhus/is-online
