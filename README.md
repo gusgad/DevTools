@@ -194,3 +194,7 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * nlp.js | An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more - https://github.com/axa-group/nlp.js
 * is-online | Check if the internet connection is up - https://github.com/sindresorhus/is-online
 * twitter-emojis | Emoji for everyone - https://github.com/twitter/twemoji
+* html2canvas | Screenshots with JavaScript - https://github.com/niklasvh/html2canvas
+* Choices | A vanilla JS customisable select box/text input plugin - https://github.com/jshjohnson/Choices
+* medium-zoom | A JavaScript library for zooming images like Medium - https://github.com/francoischalifour/medium-zoom
+* jquery.terminal | jQuery Terminal Emulator - web based terminal - https://github.com/jcubic/jquery.terminal
