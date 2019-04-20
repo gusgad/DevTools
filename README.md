@@ -198,3 +198,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * Choices | A vanilla JS customisable select box/text input plugin - https://github.com/jshjohnson/Choices
 * medium-zoom | A JavaScript library for zooming images like Medium - https://github.com/francoischalifour/medium-zoom
 * jquery.terminal | jQuery Terminal Emulator - web based terminal - https://github.com/jcubic/jquery.terminal
+* bowser | A browser detector - https://github.com/lancedikson/bowser
+* tui.editor | Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible - https://github.com/nhn/tui.editor
