@@ -200,3 +200,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * jquery.terminal | jQuery Terminal Emulator - web based terminal - https://github.com/jcubic/jquery.terminal
 * bowser | A browser detector - https://github.com/lancedikson/bowser
 * tui.editor | Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible - https://github.com/nhn/tui.editor
+* shelljs | Portable Unix shell commands for Node.js - https://github.com/shelljs/shelljs
