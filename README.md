@@ -201,3 +201,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * bowser | A browser detector - https://github.com/lancedikson/bowser
 * tui.editor | Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible - https://github.com/nhn/tui.editor
 * shelljs | Portable Unix shell commands for Node.js - https://github.com/shelljs/shelljs
+* Sortable |  a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. - https://github.com/SortableJS/Sortable
+* shepherd | Guide your users through a tour of your app - https://github.com/shipshapecode/shepherd
