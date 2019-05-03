@@ -204,3 +204,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * Sortable |  a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. - https://github.com/SortableJS/Sortable
 * shepherd | Guide your users through a tour of your app - https://github.com/shipshapecode/shepherd
 * Frontend Boilerplates | Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs.. - https://github.com/CKGrafico/Frontend-Boilerplates
+* html-sass-babel-webpack-boilerplate - https://github.com/izica/html-sass-babel-webpack-boilerplate
