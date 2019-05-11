@@ -205,3 +205,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * shepherd | Guide your users through a tour of your app - https://github.com/shipshapecode/shepherd
 * Frontend Boilerplates | Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs.. - https://github.com/CKGrafico/Frontend-Boilerplates
 * html-sass-babel-webpack-boilerplate - https://github.com/izica/html-sass-babel-webpack-boilerplate
+* cash | An absurdly small jQuery alternative for modern browsers - https://github.com/kenwheeler/cash
+* autoComplete.js | Simple autocomplete pure vanilla Javascript library. - https://github.com/TarekRaafat/autoComplete.js
