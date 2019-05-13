@@ -207,3 +207,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * html-sass-babel-webpack-boilerplate - https://github.com/izica/html-sass-babel-webpack-boilerplate
 * cash | An absurdly small jQuery alternative for modern browsers - https://github.com/kenwheeler/cash
 * autoComplete.js | Simple autocomplete pure vanilla Javascript library. - https://github.com/TarekRaafat/autoComplete.js
+* home-assistant | Open source home automation that puts local control and privacy first - https://github.com/home-assistant/home-assistant
