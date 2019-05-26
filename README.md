@@ -209,3 +209,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * autoComplete.js | Simple autocomplete pure vanilla Javascript library. - https://github.com/TarekRaafat/autoComplete.js
 * home-assistant | Open source home automation that puts local control and privacy first - https://github.com/home-assistant/home-assistant
 * delighters | Add CSS animations to delight users as they scroll down. - https://github.com/Q42/delighters
+* rough | Create graphics with a hand-drawn, sketchy, appearance - https://github.com/pshihn/rough
+* reveal.js | The HTML Presentation Framework - https://github.com/hakimel/reveal.js
