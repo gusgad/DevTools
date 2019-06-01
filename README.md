@@ -211,3 +211,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * delighters | Add CSS animations to delight users as they scroll down. - https://github.com/Q42/delighters
 * rough | Create graphics with a hand-drawn, sketchy, appearance - https://github.com/pshihn/rough
 * reveal.js | The HTML Presentation Framework - https://github.com/hakimel/reveal.js
+* PapaParse | Fast and powerful CSV (delimited text) parser - https://github.com/mholt/PapaParse
+* pickr | Flat, simple, responsive and hackable Color-Picker library. - https://github.com/Simonwep/pickr
+* MQTT.js | The MQTT client for Node.js and the browser (Machine-to-Machine) - https://github.com/mqttjs/MQTT.js
