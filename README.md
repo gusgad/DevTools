@@ -215,3 +215,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * pickr | Flat, simple, responsive and hackable Color-Picker library. - https://github.com/Simonwep/pickr
 * MQTT.js | The MQTT client for Node.js and the browser (Machine-to-Machine) - https://github.com/mqttjs/MQTT.js
 * pixelmatch | The smallest, simplest and fastest JavaScript pixel-level image comparison library - https://github.com/mapbox/pixelmatch
+* readme-md-generator |  CLI that generates beautiful README.md files - https://github.com/kefranabg/readme-md-generator
+* react-hot-loader | Tweak React components in real time. - https://github.com/gaearon/react-hot-loader
