@@ -220,3 +220,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * freezeframe.js | a library that pauses animated .gifs and enables them to animate - https://github.com/ctrl-freaks/freezeframe.js/
 * spotlight | image gallery slide show - https://github.com/nextapps-de/spotlight
 * delaunator | An incredibly fast JavaScript library for Delaunay triangulation of 2D points - https://github.com/mapbox/delaunator
+* zip | Robust ZIP decode - https://github.com/ronomon/zip
