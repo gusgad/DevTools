@@ -221,3 +221,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * spotlight | image gallery slide show - https://github.com/nextapps-de/spotlight
 * delaunator | An incredibly fast JavaScript library for Delaunay triangulation of 2D points - https://github.com/mapbox/delaunator
 * zip | Robust ZIP decode - https://github.com/ronomon/zip
+* moveable | Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! - https://github.com/daybrush/moveable
