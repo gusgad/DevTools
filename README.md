@@ -222,3 +222,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * delaunator | An incredibly fast JavaScript library for Delaunay triangulation of 2D points - https://github.com/mapbox/delaunator
 * zip | Robust ZIP decode - https://github.com/ronomon/zip
 * moveable | Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! - https://github.com/daybrush/moveable
+* hotkey | Trigger an action on an element with a keyboard shortcut. - https://github.com/github/hotkey
