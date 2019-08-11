@@ -223,3 +223,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * zip | Robust ZIP decode - https://github.com/ronomon/zip
 * moveable | Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! - https://github.com/daybrush/moveable
 * hotkey | Trigger an action on an element with a keyboard shortcut. - https://github.com/github/hotkey
+* TypeLighterJS | The world's lightest yet most powerful JS TypeWriter out there. - https://github.com/EdernClemente/TypeLighterJS
+* Resemble.js | Image analysis and comparison - https://github.com/rsmbl/Resemble.js
