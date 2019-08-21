@@ -226,3 +226,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * TypeLighterJS | The world's lightest yet most powerful JS TypeWriter out there. - https://github.com/EdernClemente/TypeLighterJS
 * Resemble.js | Image analysis and comparison - https://github.com/rsmbl/Resemble.js
 * Colors & Fonts | an extremely curated collection of color gradients, color palettes and font pairing inspiration for developers and digital designers. - https://www.colorsandfonts.com/
+* npkill | List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. - https://github.com/voidcosmos/npkill
