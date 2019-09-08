@@ -230,3 +230,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * file-type | Detect the file type of a Buffer/Uint8Array/ArrayBuffer - https://github.com/sindresorhus/file-type
 * chart.xkcd | xkcd (meme) styled chart lib - https://github.com/timqian/chart.xkcd
 * pagemap | Mini map for web pages. - https://github.com/lrsjng/pagemap
+* instant.page | Make your site’s pages instant in 1 minute and improve your conversion rate by 1% - https://github.com/instantpage/instant.page
