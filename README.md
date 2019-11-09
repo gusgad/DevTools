@@ -234,3 +234,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * gpu.js | GPU Accelerated JavaScript - https://github.com/gpujs/gpu.js
 * 15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity - https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity
 * popper.js | A kickass library to manage your poppers (tooltips) - https://github.com/FezVrasta/popper.js
+* geolib | Zero dependency library to provide some basic geo functions - https://github.com/manuelbieh/geolib
+* Proton | Javascript particle animation library - https://github.com/a-jie/Proton
+* tui.chart | Beautiful chart for data visualization. - https://github.com/nhn/tui.chart
