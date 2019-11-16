@@ -237,3 +237,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * geolib | Zero dependency library to provide some basic geo functions - https://github.com/manuelbieh/geolib
 * Proton | Javascript particle animation library - https://github.com/a-jie/Proton
 * tui.chart | Beautiful chart for data visualization. - https://github.com/nhn/tui.chart
+* progress-estimator | Logs a progress bar and estimation for how long a Promise will take to complete - https://github.com/bvaughn/progress-estimator
+* fabric.js | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser - https://github.com/fabricjs/fabric.js
