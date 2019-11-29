@@ -239,3 +239,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * tui.chart | Beautiful chart for data visualization. - https://github.com/nhn/tui.chart
 * progress-estimator | Logs a progress bar and estimation for how long a Promise will take to complete - https://github.com/bvaughn/progress-estimator
 * fabric.js | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser - https://github.com/fabricjs/fabric.js
+* video.js | Video.js - open source HTML5 & Flash video player - https://github.com/videojs/video.js
+* siriwave | The Apple® Siri wave-form replicated in a JS library. - https://github.com/kopiro/siriwave
+* ScrollTrigger | Let your page react to scroll changes - https://github.com/terwanerik/ScrollTrigger
