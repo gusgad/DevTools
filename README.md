@@ -242,3 +242,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * video.js | Video.js - open source HTML5 & Flash video player - https://github.com/videojs/video.js
 * siriwave | The Apple® Siri wave-form replicated in a JS library. - https://github.com/kopiro/siriwave
 * ScrollTrigger | Let your page react to scroll changes - https://github.com/terwanerik/ScrollTrigger
+* creepyface | A Javascript library that makes your face follow the pointer. - https://github.com/4lejandrito/creepyface
