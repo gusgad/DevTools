@@ -245,3 +245,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * creepyface | A Javascript library that makes your face follow the pointer. - https://github.com/4lejandrito/creepyface
 * simpleParallax | Simple and tiny JavaScript library which adds parallax animations on any images - https://github.com/geosigno/simpleParallax/
 * sarus | A WebSocket JavaScript library - https://github.com/anephenix/sarus
+* uuid | Generate RFC-compliant UUIDs in JavaScript - https://github.com/uuidjs/uuid
