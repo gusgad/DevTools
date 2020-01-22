@@ -246,3 +246,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * simpleParallax | Simple and tiny JavaScript library which adds parallax animations on any images - https://github.com/geosigno/simpleParallax/
 * sarus | A WebSocket JavaScript library - https://github.com/anephenix/sarus
 * uuid | Generate RFC-compliant UUIDs in JavaScript - https://github.com/uuidjs/uuid
+* icons8.com | Free animated icons - https://icons8.com/animated-icons
