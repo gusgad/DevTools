@@ -247,3 +247,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * sarus | A WebSocket JavaScript library - https://github.com/anephenix/sarus
 * uuid | Generate RFC-compliant UUIDs in JavaScript - https://github.com/uuidjs/uuid
 * icons8.com | Free animated icons - https://icons8.com/animated-icons
+* rough | Create graphics with a hand-drawn, sketchy, appearance - https://github.com/pshihn/rough
+* popperjs | Positioning tooltips and popovers is difficult. Popper is here to help! - https://github.com/popperjs/popper-core
