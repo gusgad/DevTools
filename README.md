@@ -250,3 +250,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * rough | Create graphics with a hand-drawn, sketchy, appearance - https://github.com/pshihn/rough
 * popperjs | Positioning tooltips and popovers is difficult. Popper is here to help! - https://github.com/popperjs/popper-core
 * sharect | A lightweight JavaScript library to let users share their text selections to social networks. - https://github.com/estevanmaito/sharect
+* fullcalendar | Full-sized drag & drop event calendar - https://github.com/fullcalendar/fullcalendar
