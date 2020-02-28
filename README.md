@@ -251,3 +251,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * popperjs | Positioning tooltips and popovers is difficult. Popper is here to help! - https://github.com/popperjs/popper-core
 * sharect | A lightweight JavaScript library to let users share their text selections to social networks. - https://github.com/estevanmaito/sharect
 * fullcalendar | Full-sized drag & drop event calendar - https://github.com/fullcalendar/fullcalendar
+* destiny | Prettier for File Structures - https://github.com/benawad/destiny
+* chardin.js | Simple overlay instructions for your apps - https://github.com/heelhook/chardin.js
