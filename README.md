@@ -253,3 +253,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * fullcalendar | Full-sized drag & drop event calendar - https://github.com/fullcalendar/fullcalendar
 * destiny | Prettier for File Structures - https://github.com/benawad/destiny
 * chardin.js | Simple overlay instructions for your apps - https://github.com/heelhook/chardin.js
+* panolens.js | Javascript panorama viewer based on Three.js - https://github.com/pchen66/panolens.js
