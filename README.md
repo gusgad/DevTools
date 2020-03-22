@@ -254,3 +254,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * destiny | Prettier for File Structures - https://github.com/benawad/destiny
 * chardin.js | Simple overlay instructions for your apps - https://github.com/heelhook/chardin.js
 * panolens.js | Javascript panorama viewer based on Three.js - https://github.com/pchen66/panolens.js
+* uPlot | A small, fast chart for time series, lines, areas, ohlc & bars - https://github.com/leeoniya/uPlot
+* uppload | Uppload is a better JavaScript image uploader with 30+ plugins - https://github.com/elninotech/uppload
