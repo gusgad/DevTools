@@ -256,3 +256,9 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * panolens.js | Javascript panorama viewer based on Three.js - https://github.com/pchen66/panolens.js
 * uPlot | A small, fast chart for time series, lines, areas, ohlc & bars - https://github.com/leeoniya/uPlot
 * uppload | Uppload is a better JavaScript image uploader with 30+ plugins - https://github.com/elninotech/uppload
+* svgr | Transform SVGs into React components - https://github.com/gregberge/svgr
+* nanoid | A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript - https://github.com/ai/nanoid
+* jsSHA | A JavaScript implementation of the complete Secure Hash Standard family - https://github.com/Caligatio/jsSHA
+* rsup-progress | A tiny progress bar that supports promise - https://github.com/skt-t1-byungi/rsup-progress
+* dinero.js | An immutable library to create, calculate and format money - https://github.com/dinerojs/dinero.js
+* jest-dom | Custom jest matchers to test the state of the DOM - https://github.com/testing-library/jest-dom
