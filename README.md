@@ -262,3 +262,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * rsup-progress | A tiny progress bar that supports promise - https://github.com/skt-t1-byungi/rsup-progress
 * dinero.js | An immutable library to create, calculate and format money - https://github.com/dinerojs/dinero.js
 * jest-dom | Custom jest matchers to test the state of the DOM - https://github.com/testing-library/jest-dom
+* notyf | A minimalistic, responsive, vanilla JavaScript library to show toast notifications - https://github.com/caroso1222/notyf
+* trianglify | Algorithmically generated triangle art - https://github.com/qrohlf/trianglify
