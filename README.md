@@ -265,3 +265,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * notyf | A minimalistic, responsive, vanilla JavaScript library to show toast notifications - https://github.com/caroso1222/notyf
 * trianglify | Algorithmically generated triangle art - https://github.com/qrohlf/trianglify
 * on-change | Watch an object or array for changes - https://github.com/sindresorhus/on-change
+* vime | All your media player needs in one place - a modern alternative to Videojs and Plyr. - https://github.com/vime-js/vime
