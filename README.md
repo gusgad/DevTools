@@ -268,3 +268,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * vime | All your media player needs in one place - a modern alternative to Videojs and Plyr. - https://github.com/vime-js/vime
 * selecto | Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch. - https://github.com/daybrush/selecto
 * majestic | Zero config GUI for Jest - https://github.com/Raathigesh/majestic
+* slugify | Slugify a string - https://github.com/sindresorhus/slugify
+* pico | Take browser screenshots in Javascript - https://github.com/nikersify/pico#readme
