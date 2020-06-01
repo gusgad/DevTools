@@ -271,3 +271,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * slugify | Slugify a string - https://github.com/sindresorhus/slugify
 * pico | Take browser screenshots in Javascript - https://github.com/nikersify/pico#readme
 * react-flow | React library for rendering interactive node-based graphs - https://github.com/wbkd/react-flow
+* perfume.js | Web performance library for measuring all User-centric performance metrics - https://github.com/Zizzamia/perfume.js
+* color2k | a color parsing and manipulation lib served in 2kB or less - https://github.com/ricokahler/color2k
+* Fuse | Lightweight fuzzy-search, in JavaScript - https://github.com/krisk/fuse
