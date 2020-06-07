@@ -274,3 +274,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * perfume.js | Web performance library for measuring all User-centric performance metrics - https://github.com/Zizzamia/perfume.js
 * color2k | a color parsing and manipulation lib served in 2kB or less - https://github.com/ricokahler/color2k
 * Fuse | Lightweight fuzzy-search, in JavaScript - https://github.com/krisk/fuse
+* Frappe Charts | Simple, responsive, modern SVG Charts with zero dependencies - https://github.com/frappe/charts
