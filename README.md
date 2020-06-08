@@ -275,3 +275,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * color2k | a color parsing and manipulation lib served in 2kB or less - https://github.com/ricokahler/color2k
 * Fuse | Lightweight fuzzy-search, in JavaScript - https://github.com/krisk/fuse
 * Frappe Charts | Simple, responsive, modern SVG Charts with zero dependencies - https://github.com/frappe/charts
+* pose-animator - https://github.com/yemount/pose-animator/
