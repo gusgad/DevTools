@@ -276,3 +276,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * Fuse | Lightweight fuzzy-search, in JavaScript - https://github.com/krisk/fuse
 * Frappe Charts | Simple, responsive, modern SVG Charts with zero dependencies - https://github.com/frappe/charts
 * pose-animator - https://github.com/yemount/pose-animator/
+* nanopop | Minimalistic, small, positioning engine. Build for high-performance, minimal footprint and maximum control over positioning behavior. - https://github.com/Simonwep/nanopop
