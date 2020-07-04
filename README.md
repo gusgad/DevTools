@@ -280,3 +280,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * Angelfire | Add custom context menus to any DOM element - https://github.com/rish-16/Angelfire
 * number-precision | 1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely - https://github.com/nefe/number-precision
 * rough-notation | Create and animate hand-drawn annotations on a web page - https://github.com/rough-stuff/rough-notation
+* exifr | The fastest and most versatile JS EXIF reading library. - https://github.com/MikeKovarik/exifr
+* Panolens.js | Javascript panorama viewer based on Three.js (360) - https://github.com/pchen66/panolens.js
