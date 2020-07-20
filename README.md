@@ -283,5 +283,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * exifr | The fastest and most versatile JS EXIF reading library. - https://github.com/MikeKovarik/exifr
 * Panolens.js | Javascript panorama viewer based on Three.js (360) - https://github.com/pchen66/panolens.js
 * hukum | Displays Github Action progress in terminal - https://github.com/abskmj/hukum
-* currency.js | 1kb javascript library for working with currency values. - https://github.com/scurker/currency.js
+* currency.js | 1kb javascript library for working with currency values - https://github.com/scurker/currency.js
 * dequal | A tiny (305B) utility to check for deep equality - https://github.com/lukeed/dequal
