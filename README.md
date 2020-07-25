@@ -285,3 +285,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * hukum | Displays Github Action progress in terminal - https://github.com/abskmj/hukum
 * currency.js | 1kb javascript library for working with currency values - https://github.com/scurker/currency.js
 * dequal | A tiny (305B) utility to check for deep equality - https://github.com/lukeed/dequal
+* perfect-arrows | A set of functions for drawing perfect arrows between points and shapes - https://github.com/steveruizok/perfect-arrows
