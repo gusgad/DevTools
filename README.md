@@ -1,5 +1,5 @@
 # DevTools
-## A list of useful web-development/web-design tools and libraries for Frontend. (open to Pull requests)
+## A list of useful Web-development/Web-design tools and libraries for Frontend. (open to Pull requests)
 
 * Google webmaster guidelines - https://varvy.com/
 * Site analizer - https://www.site-analyzer.com/
