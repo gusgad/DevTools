@@ -286,3 +286,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * currency.js | 1kb javascript library for working with currency values - https://github.com/scurker/currency.js
 * dequal | A tiny (305B) utility to check for deep equality - https://github.com/lukeed/dequal
 * perfect-arrows | A set of functions for drawing perfect arrows between points and shapes - https://github.com/steveruizok/perfect-arrows
+* ink | React for CLIs. Build and test your CLI output using components. - https://github.com/vadimdemedes/ink
+* release | When run, this command line interface automatically generates a new GitHub Release and populates it with the changes (commits) made since the last release. - https://github.com/vercel/release
