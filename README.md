@@ -288,3 +288,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * perfect-arrows | A set of functions for drawing perfect arrows between points and shapes - https://github.com/steveruizok/perfect-arrows
 * ink | React for CLIs. Build and test your CLI output using components. - https://github.com/vadimdemedes/ink
 * release | When run, this command line interface automatically generates a new GitHub Release and populates it with the changes (commits) made since the last release. - https://github.com/vercel/release
+* embla-carousel | bare bones carousel library with great fluid motion and awesome swipe precision - https://github.com/davidcetinkaya/embla-carousel
+* bootbot | BootBot is a simple but powerful JavaScript Framework to build Facebook Messenger's Chat bots. - https://github.com/Charca/bootbot
+* ImmortalDB | ImmortalDB is the best way to store persistent key-value data in the browser. Data saved to ImmortalDB is redundantly stored in Cookies, IndexedDB, and LocalStorage, and relentlessly self heals if any data therein is deleted or corrupted. - https://github.com/gruns/ImmortalDB
