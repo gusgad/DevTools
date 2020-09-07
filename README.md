@@ -291,3 +291,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * embla-carousel | bare bones carousel library with great fluid motion and awesome swipe precision - https://github.com/davidcetinkaya/embla-carousel
 * bootbot | BootBot is a simple but powerful JavaScript Framework to build Facebook Messenger's Chat bots. - https://github.com/Charca/bootbot
 * ImmortalDB | ImmortalDB is the best way to store persistent key-value data in the browser. Data saved to ImmortalDB is redundantly stored in Cookies, IndexedDB, and LocalStorage, and relentlessly self heals if any data therein is deleted or corrupted. - https://github.com/gruns/ImmortalDB
+* volt-bootstrap-5-dashboard | Bootstrap 5 and Vanilla Javascript dashboard - https://github.com/themesberg/volt-bootstrap-5-dashboard
+* Print.js | A tiny javascript library to help printing from the web. - https://github.com/crabbly/print.js
