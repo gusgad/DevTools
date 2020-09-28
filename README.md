@@ -293,3 +293,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * ImmortalDB | ImmortalDB is the best way to store persistent key-value data in the browser. Data saved to ImmortalDB is redundantly stored in Cookies, IndexedDB, and LocalStorage, and relentlessly self heals if any data therein is deleted or corrupted. - https://github.com/gruns/ImmortalDB
 * volt-bootstrap-5-dashboard | Bootstrap 5 and Vanilla Javascript dashboard - https://github.com/themesberg/volt-bootstrap-5-dashboard
 * Print.js | A tiny javascript library to help printing from the web. - https://github.com/crabbly/print.js
+* klipse | a Javacript plugin for embedding interactive code snippets in tech blogs - https://github.com/viebel/klipse
+* ip-address | is a library for validating and manipulating IPv4 and IPv6 addresses in JavaScript - https://github.com/beaugunderson/ip-address
+* Gemini | Aesthetic now playing screen for Spotify - https://github.com/Gabe-H/Gemini
