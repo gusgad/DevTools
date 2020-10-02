@@ -296,3 +296,7 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * klipse | a Javacript plugin for embedding interactive code snippets in tech blogs - https://github.com/viebel/klipse
 * ip-address | is a library for validating and manipulating IPv4 and IPv6 addresses in JavaScript - https://github.com/beaugunderson/ip-address
 * Gemini | Aesthetic now playing screen for Spotify - https://github.com/Gabe-H/Gemini
+* urlcat | urlcat is a tiny JavaScript library that makes building URLs very convenient and prevents common mistakes - https://github.com/balazsbotond/urlcat
+* fflate | High performance (de)compression in an 8kB package - https://github.com/101arrowz/fflate
+* textures.js | a JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization - https://github.com/riccardoscalco/textures
+* vime |  a customizable, extensible, accessible and framework agnostic media player. - https://github.com/vime-js/vime
