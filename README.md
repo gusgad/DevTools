@@ -300,3 +300,8 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * fflate | High performance (de)compression in an 8kB package - https://github.com/101arrowz/fflate
 * textures.js | a JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization - https://github.com/riccardoscalco/textures
 * vime |  a customizable, extensible, accessible and framework agnostic media player. - https://github.com/vime-js/vime
+* esbuild | a JavaScript bundler and minifier. - https://github.com/evanw/esbuild
+* react-chrono | A flexible timeline component for React - https://github.com/prabhuignoto/react-chrono
+* date-picker | an open source version of Duet Design System’s accessible date picker - https://github.com/duetds/date-picker
+* smolpxl | Write retro pixelated games in JavaScript. - https://gitlab.com/andybalaam/smolpxl
+* visx | a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. - https://github.com/airbnb/visx
