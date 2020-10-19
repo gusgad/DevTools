@@ -305,3 +305,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * date-picker | an open source version of Duet Design System’s accessible date picker - https://github.com/duetds/date-picker
 * smolpxl | Write retro pixelated games in JavaScript. - https://gitlab.com/andybalaam/smolpxl
 * visx | a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. - https://github.com/airbnb/visx
+* Ego | a lightweight decision making library for game AI. It provides decision trees and state machines (hierarchical and finite). - https://github.com/oguzeroglu/Ego
