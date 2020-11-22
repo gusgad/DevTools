@@ -307,3 +307,7 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * visx | a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. - https://github.com/airbnb/visx
 * Ego | a lightweight decision making library for game AI. It provides decision trees and state machines (hierarchical and finite). - https://github.com/oguzeroglu/Ego
 * nsfwjs | Client-side indecent content checking - https://github.com/infinitered/nsfwjs
+* detect-gpu | Think of it like a user-agent detection for the GPU but more powerful. - https://github.com/TimvanScherpenzeel/detect-gpu
+* human-interval | Human-readable interval parser for Javascript. - https://github.com/agenda/human-interval
+* dragmove.js | A super tiny Javascript library to make DOM elements draggable and movable - https://github.com/knadh/dragmove.js
+* cssgridgenerator | a way for people to use CSS Grid features quickly to create dynamic layouts - https://github.com/sdras/cssgridgenerator
