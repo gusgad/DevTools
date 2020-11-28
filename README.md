@@ -311,3 +311,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * human-interval | Human-readable interval parser for Javascript. - https://github.com/agenda/human-interval
 * dragmove.js | A super tiny Javascript library to make DOM elements draggable and movable - https://github.com/knadh/dragmove.js
 * cssgridgenerator | a way for people to use CSS Grid features quickly to create dynamic layouts - https://github.com/sdras/cssgridgenerator
+* sql.js | SQLite compiled to JavaScript - https://github.com/sql-js/sql.js
