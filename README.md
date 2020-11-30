@@ -312,3 +312,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * dragmove.js | A super tiny Javascript library to make DOM elements draggable and movable - https://github.com/knadh/dragmove.js
 * cssgridgenerator | a way for people to use CSS Grid features quickly to create dynamic layouts - https://github.com/sdras/cssgridgenerator
 * sql.js | SQLite compiled to JavaScript - https://github.com/sql-js/sql.js
+* node-lru-cache | A cache object that deletes the least-recently-used items - https://github.com/isaacs/node-lru-cache
