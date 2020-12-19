@@ -313,3 +313,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * cssgridgenerator | a way for people to use CSS Grid features quickly to create dynamic layouts - https://github.com/sdras/cssgridgenerator
 * sql.js | SQLite compiled to JavaScript - https://github.com/sql-js/sql.js
 * node-lru-cache | A cache object that deletes the least-recently-used items - https://github.com/isaacs/node-lru-cache
+* Moiva.io issues | Measure and compare JavaScript libraries - https://github.com/aantipov/moiva-issues
+* Tiny-Swiper | Ingenious JavaScript Carousel powered by wonderful plugin - https://github.com/joe223/tiny-swiper
