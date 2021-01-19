@@ -315,3 +315,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * node-lru-cache | A cache object that deletes the least-recently-used items - https://github.com/isaacs/node-lru-cache
 * Moiva.io issues | Measure and compare JavaScript libraries - https://github.com/aantipov/moiva-issues
 * Tiny-Swiper | Ingenious JavaScript Carousel powered by wonderful plugin - https://github.com/joe223/tiny-swiper
+* icons8 Animated icons 2.0 - https://icons8.com/animated-icons
