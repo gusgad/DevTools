@@ -316,3 +316,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * Moiva.io issues | Measure and compare JavaScript libraries - https://github.com/aantipov/moiva-issues
 * Tiny-Swiper | Ingenious JavaScript Carousel powered by wonderful plugin - https://github.com/joe223/tiny-swiper
 * icons8 Animated icons 2.0 - https://icons8.com/animated-icons
+* siriwave | "Apple Siri" wave replicated in pure Javascript - https://github.com/kopiro/siriwave
