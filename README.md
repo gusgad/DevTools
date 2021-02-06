@@ -317,3 +317,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * Tiny-Swiper | Ingenious JavaScript Carousel powered by wonderful plugin - https://github.com/joe223/tiny-swiper
 * icons8 Animated icons 2.0 - https://icons8.com/animated-icons
 * siriwave | "Apple Siri" wave replicated in pure Javascript - https://github.com/kopiro/siriwave
+* autoComplete.js | Simple autocomplete pure vanilla Javascript library. - https://github.com/TarekRaafat/autoComplete.js
