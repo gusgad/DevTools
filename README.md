@@ -319,3 +319,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * siriwave | "Apple Siri" wave replicated in pure Javascript - https://github.com/kopiro/siriwave
 * autoComplete.js | Simple autocomplete pure vanilla Javascript library. - https://github.com/TarekRaafat/autoComplete.js
 * backstage | Spotify’s homegrown developer portal. - https://github.com/backstage/backstage
+* run-parallel | Run an array of functions in parallel - https://github.com/feross/run-parallel
