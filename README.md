@@ -320,3 +320,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * autoComplete.js | Simple autocomplete pure vanilla Javascript library. - https://github.com/TarekRaafat/autoComplete.js
 * backstage | Spotify’s homegrown developer portal. - https://github.com/backstage/backstage
 * run-parallel | Run an array of functions in parallel - https://github.com/feross/run-parallel
+* metascraper | A library to easily scrape metadata from an article on the web using Open Graph, JSON+LD, regular HTML metadata - https://github.com/microlinkhq/metascraper
