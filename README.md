@@ -321,3 +321,7 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * backstage | Spotify’s homegrown developer portal. - https://github.com/backstage/backstage
 * run-parallel | Run an array of functions in parallel - https://github.com/feross/run-parallel
 * metascraper | A library to easily scrape metadata from an article on the web using Open Graph, JSON+LD, regular HTML metadata - https://github.com/microlinkhq/metascraper
+* critical | Critical extracts & inlines critical-path (above-the-fold) CSS from HTML - https://github.com/addyosmani/critical
+* free-for.dev | a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. - https://free-for.dev/#/
+* simple-keyboard | The slick virtual keyboard for Javascript. - https://github.com/hodgef/simple-keyboard
+* serverlessui | Serverless UI is a free, open source command-line utility for quickly building and deploying serverless applications on AWS - https://github.com/JakePartusch/serverlessui
