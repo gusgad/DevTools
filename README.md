@@ -325,3 +325,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * free-for.dev | a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. - https://free-for.dev/#/
 * simple-keyboard | The slick virtual keyboard for Javascript. - https://github.com/hodgef/simple-keyboard
 * serverlessui | Serverless UI is a free, open source command-line utility for quickly building and deploying serverless applications on AWS - https://github.com/JakePartusch/serverlessui
+* swiper | Most modern mobile touch slider with hardware accelerated transitions - https://github.com/nolimits4web/swiper
+* orbitdb | Peer-to-Peer Databases for the Decentralized Web* orbitdb - https://github.com/orbitdb/orbit-db
