@@ -327,3 +327,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * serverlessui | Serverless UI is a free, open source command-line utility for quickly building and deploying serverless applications on AWS - https://github.com/JakePartusch/serverlessui
 * swiper | Most modern mobile touch slider with hardware accelerated transitions - https://github.com/nolimits4web/swiper
 * orbitdb | Peer-to-Peer Databases for the Decentralized Web* orbitdb - https://github.com/orbitdb/orbit-db
+* react-big-calendar | gcal/outlook like calendar component - https://github.com/jquense/react-big-calendar
