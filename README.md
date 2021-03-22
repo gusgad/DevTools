@@ -328,3 +328,7 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * swiper | Most modern mobile touch slider with hardware accelerated transitions - https://github.com/nolimits4web/swiper
 * orbitdb | Peer-to-Peer Databases for the Decentralized Web* orbitdb - https://github.com/orbitdb/orbit-db
 * react-big-calendar | gcal/outlook like calendar component - https://github.com/jquense/react-big-calendar
+* code-complexity - Measure the code churn/complexity ratio. | https://github.com/simonrenoult/code-complexity
+* React95 | Refreshed Windows 95 style UI components for your React app - https://github.com/arturbien/React95
+* lite-youtube-embed | A faster youtube embed. - https://github.com/paulirish/lite-youtube-embed
+* jsonld.js | A JSON-LD Processor and API implementation in JavaScript - https://github.com/digitalbazaar/jsonld.js
