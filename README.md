@@ -332,3 +332,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * React95 | Refreshed Windows 95 style UI components for your React app - https://github.com/arturbien/React95
 * lite-youtube-embed | A faster youtube embed. - https://github.com/paulirish/lite-youtube-embed
 * jsonld.js | A JSON-LD Processor and API implementation in JavaScript - https://github.com/digitalbazaar/jsonld.js
+* tagify | lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue - https://github.com/yairEO/tagify
