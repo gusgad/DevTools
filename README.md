@@ -333,3 +333,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * lite-youtube-embed | A faster youtube embed. - https://github.com/paulirish/lite-youtube-embed
 * jsonld.js | A JSON-LD Processor and API implementation in JavaScript - https://github.com/digitalbazaar/jsonld.js
 * tagify | lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue - https://github.com/yairEO/tagify
+* aladino | enhance your site using "shader effects". - https://github.com/luruke/aladino
+* faker.js | generate massive amounts of fake data in the browser and node.js - https://github.com/Marak/Faker.js
