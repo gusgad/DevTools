@@ -335,3 +335,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * tagify | lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue - https://github.com/yairEO/tagify
 * aladino | enhance your site using "shader effects". - https://github.com/luruke/aladino
 * faker.js | generate massive amounts of fake data in the browser and node.js - https://github.com/Marak/Faker.js
+* blurhash | a compact representation of a placeholder for an image. - https://github.com/woltapp/blurhash
