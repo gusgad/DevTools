@@ -336,3 +336,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * aladino | enhance your site using "shader effects". - https://github.com/luruke/aladino
 * faker.js | generate massive amounts of fake data in the browser and node.js - https://github.com/Marak/Faker.js
 * blurhash | a compact representation of a placeholder for an image. - https://github.com/woltapp/blurhash
+* party-js | a library to brighten up your user's site experience with visual effects! - https://github.com/yiliansource/party-js
+* 
