@@ -340,3 +340,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * lightGallery | A customizable, modular, responsive, lightbox gallery plugin. - https://github.com/sachinchoolur/lightGallery
 * threads.js | Make web workers & worker threads as simple as a function call. - https://github.com/andywer/threads.js
 * boring-avatars | Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette. - https://github.com/boringdesigners/boring-avatars
+* d3-funnel | A JavaScript library for rendering funnel charts using the D3.js framework. - https://github.com/jakezatecky/d3-funnel
+* jsonmatic | Transform a CSV (spreadsheet) into a JSON - https://github.com/erikmartinjordan/jsonmatic
