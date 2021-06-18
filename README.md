@@ -342,3 +342,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * boring-avatars | Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette. - https://github.com/boringdesigners/boring-avatars
 * d3-funnel | A JavaScript library for rendering funnel charts using the D3.js framework. - https://github.com/jakezatecky/d3-funnel
 * jsonmatic | Transform a CSV (spreadsheet) into a JSON - https://github.com/erikmartinjordan/jsonmatic
+* handsfree | Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap - https://github.com/midiblocks/handsfree
+* egjs-flicking | eliable, flexible and extendable carousel. - https://github.com/naver/egjs-flicking
