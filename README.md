@@ -344,3 +344,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * jsonmatic | Transform a CSV (spreadsheet) into a JSON - https://github.com/erikmartinjordan/jsonmatic
 * handsfree | Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap - https://github.com/midiblocks/handsfree
 * egjs-flicking | eliable, flexible and extendable carousel. - https://github.com/naver/egjs-flicking
+* jszip | Create, read and edit .zip files with Javascript - https://github.com/Stuk/jszip
+* hora | efficient approximate nearest neighbor search algorithm collections library - https://github.com/hora-search/hora
