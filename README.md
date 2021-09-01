@@ -347,3 +347,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * jszip | Create, read and edit .zip files with Javascript - https://github.com/Stuk/jszip
 * hora | efficient approximate nearest neighbor search algorithm collections library - https://github.com/hora-search/hora
 * drift | Easily add "zoom on hover" functionality - https://github.com/imgix/drift
+* wavesurfer.js | Navigable waveform built on Web Audio - https://github.com/katspaugh/wavesurfer.js
