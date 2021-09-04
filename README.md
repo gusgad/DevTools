@@ -348,3 +348,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * hora | efficient approximate nearest neighbor search algorithm collections library - https://github.com/hora-search/hora
 * drift | Easily add "zoom on hover" functionality - https://github.com/imgix/drift
 * wavesurfer.js | Navigable waveform built on Web Audio - https://github.com/katspaugh/wavesurfer.js
+* parse-domain | Splits a hostname into subdomains, domain and (effective) top-level domains. - https://github.com/peerigon/parse-domain
+* smartcrop.js | Content aware image cropping - https://github.com/jwagner/smartcrop.js
