@@ -350,3 +350,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * wavesurfer.js | Navigable waveform built on Web Audio - https://github.com/katspaugh/wavesurfer.js
 * parse-domain | Splits a hostname into subdomains, domain and (effective) top-level domains. - https://github.com/peerigon/parse-domain
 * smartcrop.js | Content aware image cropping - https://github.com/jwagner/smartcrop.js
+* RE2 | node.js bindings for RE2: fast, safe alternative to backtracking regular expression engines - https://github.com/uhop/node-re2
+* gron | Make JSON greppable - https://github.com/tomnomnom/gron
