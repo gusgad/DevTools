@@ -352,3 +352,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * smartcrop.js | Content aware image cropping - https://github.com/jwagner/smartcrop.js
 * RE2 | node.js bindings for RE2: fast, safe alternative to backtracking regular expression engines - https://github.com/uhop/node-re2
 * gron | Make JSON greppable - https://github.com/tomnomnom/gron
+* docx | Easily generate .docx files with JS/TS. - https://github.com/dolanmiu/docx
