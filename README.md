@@ -353,3 +353,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * RE2 | node.js bindings for RE2: fast, safe alternative to backtracking regular expression engines - https://github.com/uhop/node-re2
 * gron | Make JSON greppable - https://github.com/tomnomnom/gron
 * docx | Easily generate .docx files with JS/TS. - https://github.com/dolanmiu/docx
+* vanilla-tree-viewer | a minimalist file browser for compactly displaying several files at once - https://github.com/abhchand/vanilla-tree-viewer
+* xterm.js | A terminal for the web - https://github.com/xtermjs/xterm.js
