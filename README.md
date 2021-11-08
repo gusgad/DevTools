@@ -355,3 +355,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * docx | Easily generate .docx files with JS/TS. - https://github.com/dolanmiu/docx
 * vanilla-tree-viewer | a minimalist file browser for compactly displaying several files at once - https://github.com/abhchand/vanilla-tree-viewer
 * xterm.js | A terminal for the web - https://github.com/xtermjs/xterm.js
+* history | Manage session history with JavaScript - https://github.com/remix-run/history
+* smooth-scrollbar | Customizable, Flexible, and High Performance Scrollbars! - https://github.com/idiotWu/smooth-scrollbar
