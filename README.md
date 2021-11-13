@@ -357,3 +357,7 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * xterm.js | A terminal for the web - https://github.com/xtermjs/xterm.js
 * history | Manage session history with JavaScript - https://github.com/remix-run/history
 * smooth-scrollbar | Customizable, Flexible, and High Performance Scrollbars! - https://github.com/idiotWu/smooth-scrollbar
+* liqe | Lightweight and performant Lucene-like parser and search engine. - https://github.com/gajus/liqe
+* MiniMasonry.js | Minimalist dependancy free Masonry layout library - https://github.com/Spope/MiniMasonry.js
+* bree | job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support - https://github.com/breejs/bree
+* hashids.js | JavaScript library to generate YouTube-like ids from numbers. - https://github.com/niieani/hashids.js
