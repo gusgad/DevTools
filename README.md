@@ -363,3 +363,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * hashids.js | JavaScript library to generate YouTube-like ids from numbers. - https://github.com/niieani/hashids.js
 * Dann | Deep Neural Network Library for JavaScript. - https://github.com/matiasvlevi/Dann
 * reading-time | Medium's like reading time estimation - https://github.com/ngryman/reading-time
+* Ladda | Buttons with built-in loading indicators. - https://github.com/hakimel/Ladda
+* floating-ui | JavaScript positioning library for tooltips, popovers, dropdowns, and more - https://github.com/atomiks/floating-ui
