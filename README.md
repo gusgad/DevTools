@@ -365,3 +365,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * reading-time | Medium's like reading time estimation - https://github.com/ngryman/reading-time
 * Ladda | Buttons with built-in loading indicators. - https://github.com/hakimel/Ladda
 * floating-ui | JavaScript positioning library for tooltips, popovers, dropdowns, and more - https://github.com/atomiks/floating-ui
+* cobe | WebGL globe lib. - https://github.com/shuding/cobe
+* graphql-request | Minimal GraphQL client supporting Node and browsers for scripts or simple apps - https://github.com/prisma-labs/graphql-request
