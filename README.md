@@ -370,3 +370,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * javascript-algorithms | Algorithms and data structures implemented in JavaScript - https://github.com/trekhleb/javascript-algorithms
 * commitizen | Create committing rules for projects 🚀 auto bump versions ⬆️ and auto changelog generation - https://github.com/commitizen-tools/commitizen
 * gluegun | A delightful toolkit for building TypeScript-powered command-line apps. - https://github.com/infinitered/gluegun
+* sigma.js | visualizing graphs of thousands of nodes and edges - https://github.com/jacomyal/sigma.js
+* lite-youtube | fastest little YouTube web component - https://github.com/justinribeiro/lite-youtube
