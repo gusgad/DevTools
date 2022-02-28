@@ -372,3 +372,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * gluegun | A delightful toolkit for building TypeScript-powered command-line apps. - https://github.com/infinitered/gluegun
 * sigma.js | visualizing graphs of thousands of nodes and edges - https://github.com/jacomyal/sigma.js
 * lite-youtube | fastest little YouTube web component - https://github.com/justinribeiro/lite-youtube
+* elevator.js | a "back to top" button that behaves like a real elevator. - https://github.com/tholman/elevator.js
+* screenshot | A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API. - https://github.com/xataio/screenshot
