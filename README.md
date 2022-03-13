@@ -374,3 +374,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * lite-youtube | fastest little YouTube web component - https://github.com/justinribeiro/lite-youtube
 * elevator.js | a "back to top" button that behaves like a real elevator. - https://github.com/tholman/elevator.js
 * screenshot | A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API. - https://github.com/xataio/screenshot
+* striff | simple string diffing. - https://github.com/alexmacarthur/striff
+* webtoon/psd | PSD parser for the web and Node.js - https://github.com/webtoon/psd
