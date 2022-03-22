@@ -376,3 +376,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * screenshot | A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API. - https://github.com/xataio/screenshot
 * striff | simple string diffing. - https://github.com/alexmacarthur/striff
 * webtoon/psd | PSD parser for the web and Node.js - https://github.com/webtoon/psd
+* sysend.js | Web application synchronization between different tabs - https://github.com/jcubic/sysend.js
+* emoji-button | Vanilla JavaScript emoji picker component - https://github.com/joeattardi/emoji-button
