@@ -378,3 +378,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * webtoon/psd | PSD parser for the web and Node.js - https://github.com/webtoon/psd
 * sysend.js | Web application synchronization between different tabs - https://github.com/jcubic/sysend.js
 * emoji-button | Vanilla JavaScript emoji picker component - https://github.com/joeattardi/emoji-button
+* piling.js | A general framework and library for exploring thousands of small multiples - https://github.com/flekschas/piling.js
