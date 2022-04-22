@@ -380,3 +380,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * emoji-button | Vanilla JavaScript emoji picker component - https://github.com/joeattardi/emoji-button
 * piling.js | A general framework and library for exploring thousands of small multiples - https://github.com/flekschas/piling.js
 * marko.js | A declarative, HTML-based language that makes building web apps fun - https://github.com/marko-js/marko
+* lookscanned.io | Make your PDFs look scanned - https://github.com/rwv/lookscanned.io
