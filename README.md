@@ -381,3 +381,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * piling.js | A general framework and library for exploring thousands of small multiples - https://github.com/flekschas/piling.js
 * marko.js | A declarative, HTML-based language that makes building web apps fun - https://github.com/marko-js/marko
 * lookscanned.io | Make your PDFs look scanned - https://github.com/rwv/lookscanned.io
+* emoji-mart | One component to pick them all - https://github.com/missive/emoji-mart
