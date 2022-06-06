@@ -382,3 +382,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * marko.js | A declarative, HTML-based language that makes building web apps fun - https://github.com/marko-js/marko
 * lookscanned.io | Make your PDFs look scanned - https://github.com/rwv/lookscanned.io
 * emoji-mart | One component to pick them all - https://github.com/missive/emoji-mart
+* elder.js | an opinionated static site generator and web framework for Svelte built with SEO in mind - https://github.com/Elderjs/elderjs
+* ninja-keys | Keyboard shortcuts interface for your website. - https://github.com/ssleptsov/ninja-keys
+* filesize.js | library to generate a human readable String describing the file size - https://github.com/avoidwork/filesize.js
