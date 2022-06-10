@@ -385,3 +385,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * elder.js | an opinionated static site generator and web framework for Svelte built with SEO in mind - https://github.com/Elderjs/elderjs
 * ninja-keys | Keyboard shortcuts interface for your website. - https://github.com/ssleptsov/ninja-keys
 * filesize.js | library to generate a human readable String describing the file size - https://github.com/avoidwork/filesize.js
+* jest-image-snapshot | Jest matcher for image comparisons. Most commonly used for visual regression testing. - https://github.com/americanexpress/jest-image-snapshot
