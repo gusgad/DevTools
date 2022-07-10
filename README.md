@@ -387,3 +387,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * filesize.js | library to generate a human readable String describing the file size - https://github.com/avoidwork/filesize.js
 * jest-image-snapshot | Jest matcher for image comparisons. Most commonly used for visual regression testing. - https://github.com/americanexpress/jest-image-snapshot
 * trim-lines | Remove spaces and tabs around line-breaks - https://github.com/wooorm/trim-lines
+* fuite | A tool for finding memory leaks in web apps - https://github.com/nolanlawson/fuite
