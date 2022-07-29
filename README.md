@@ -388,3 +388,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * jest-image-snapshot | Jest matcher for image comparisons. Most commonly used for visual regression testing. - https://github.com/americanexpress/jest-image-snapshot
 * trim-lines | Remove spaces and tabs around line-breaks - https://github.com/wooorm/trim-lines
 * fuite | A tool for finding memory leaks in web apps - https://github.com/nolanlawson/fuite
+* simplex-noise.js | A fast simplex noise implementation in Javascript / Typescript. - https://github.com/jwagner/simplex-noise.js
