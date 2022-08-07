@@ -389,3 +389,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * trim-lines | Remove spaces and tabs around line-breaks - https://github.com/wooorm/trim-lines
 * fuite | A tool for finding memory leaks in web apps - https://github.com/nolanlawson/fuite
 * simplex-noise.js | A fast simplex noise implementation in Javascript / Typescript. - https://github.com/jwagner/simplex-noise.js
+* powerglitch | Tiny JS library to glitch images on the web - https://github.com/7ph/powerglitch
