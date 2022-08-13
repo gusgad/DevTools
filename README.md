@@ -390,3 +390,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * fuite | A tool for finding memory leaks in web apps - https://github.com/nolanlawson/fuite
 * simplex-noise.js | A fast simplex noise implementation in Javascript / Typescript. - https://github.com/jwagner/simplex-noise.js
 * powerglitch | Tiny JS library to glitch images on the web - https://github.com/7ph/powerglitch
+* juice | inlines CSS stylesheets into your HTML source. - https://github.com/Automattic/juice
