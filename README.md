@@ -391,3 +391,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * simplex-noise.js | A fast simplex noise implementation in Javascript / Typescript. - https://github.com/jwagner/simplex-noise.js
 * powerglitch | Tiny JS library to glitch images on the web - https://github.com/7ph/powerglitch
 * juice | inlines CSS stylesheets into your HTML source. - https://github.com/Automattic/juice
+* focus-trap | Trap focus within a DOM node. - https://github.com/focus-trap/focus-trap
