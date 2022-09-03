@@ -392,3 +392,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * powerglitch | Tiny JS library to glitch images on the web - https://github.com/7ph/powerglitch
 * juice | inlines CSS stylesheets into your HTML source. - https://github.com/Automattic/juice
 * focus-trap | Trap focus within a DOM node. - https://github.com/focus-trap/focus-trap
+* github-script | Write workflows scripting the GitHub API in JavaScript - https://github.com/actions/github-script
