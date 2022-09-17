@@ -393,3 +393,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * juice | inlines CSS stylesheets into your HTML source. - https://github.com/Automattic/juice
 * focus-trap | Trap focus within a DOM node. - https://github.com/focus-trap/focus-trap
 * github-script | Write workflows scripting the GitHub API in JavaScript - https://github.com/actions/github-script
+* safeql | Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL - https://github.com/ts-safeql/safeql
+* spacetime | A lightweight javascript timezone library - https://github.com/spencermountain/spacetime
+* memlab | A framework for finding JavaScript memory leaks and analyzing heap snapshots - https://github.com/facebookincubator/memlab
