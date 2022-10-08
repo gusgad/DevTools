@@ -396,3 +396,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * safeql | Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL - https://github.com/ts-safeql/safeql
 * spacetime | A lightweight javascript timezone library - https://github.com/spencermountain/spacetime
 * memlab | A framework for finding JavaScript memory leaks and analyzing heap snapshots - https://github.com/facebookincubator/memlab
+* uFuzzy | A tiny, efficient fuzzy search that doesn't suck - https://github.com/leeoniya/uFuzzy
