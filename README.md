@@ -403,3 +403,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * source-map-explorer | Analyze and debug space usage through source maps - https://github.com/danvk/source-map-explorer
 * commitlint | Lint commit messages - https://github.com/conventional-changelog/commitlint
 * auto-changelog | Command line tool for generating a changelog from git tags and commit history - https://github.com/cookpete/auto-changelog
+* canvas-confetti | on-demand confetti gun - https://github.com/catdad/canvas-confetti
