@@ -404,3 +404,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * commitlint | Lint commit messages - https://github.com/conventional-changelog/commitlint
 * auto-changelog | Command line tool for generating a changelog from git tags and commit history - https://github.com/cookpete/auto-changelog
 * canvas-confetti | on-demand confetti gun - https://github.com/catdad/canvas-confetti
+* atrament.js | A small JS library for beautiful drawing and handwriting on the HTML Canvas - https://github.com/jakubfiala/atrament.js
