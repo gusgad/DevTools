@@ -405,3 +405,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * auto-changelog | Command line tool for generating a changelog from git tags and commit history - https://github.com/cookpete/auto-changelog
 * canvas-confetti | on-demand confetti gun - https://github.com/catdad/canvas-confetti
 * atrament.js | A small JS library for beautiful drawing and handwriting on the HTML Canvas - https://github.com/jakubfiala/atrament.js
+* BlockNote | A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap. - https://github.com/YousefED/BlockNote
+* yup | Dead simple Object schema validation - https://github.com/jquense/yup
