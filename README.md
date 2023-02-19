@@ -407,3 +407,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * atrament.js | A small JS library for beautiful drawing and handwriting on the HTML Canvas - https://github.com/jakubfiala/atrament.js
 * BlockNote | A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap. - https://github.com/YousefED/BlockNote
 * yup | Dead simple Object schema validation - https://github.com/jquense/yup
+* javascript-obfuscator | A powerful obfuscator for JavaScript and Node.js - https://github.com/javascript-obfuscator/javascript-obfuscator
+* pythagora | Generate integration tests for your Node.js app by recording server activity without writing a single line of code. - https://github.com/Pythagora-io/pythagora
