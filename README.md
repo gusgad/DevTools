@@ -409,3 +409,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * yup | Dead simple Object schema validation - https://github.com/jquense/yup
 * javascript-obfuscator | A powerful obfuscator for JavaScript and Node.js - https://github.com/javascript-obfuscator/javascript-obfuscator
 * pythagora | Generate integration tests for your Node.js app by recording server activity without writing a single line of code. - https://github.com/Pythagora-io/pythagora
+* urban-bot | The universal chatbot library based on React. - https://github.com/urban-bot/urban-bot
