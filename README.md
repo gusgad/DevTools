@@ -412,3 +412,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * urban-bot | The universal chatbot library based on React. - https://github.com/urban-bot/urban-bot
 * lenis | How smooth scroll should be - https://github.com/studio-freight/lenis
 * zx | A tool for writing better scripts - https://github.com/google/zx
+* rimraf | A `rm -rf` util for nodejs - https://github.com/isaacs/rimraf
+* huggingface.js | Utilities to use the Hugging Face hub API - https://github.com/huggingface/huggingface.js
