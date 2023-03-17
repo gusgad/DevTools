@@ -414,3 +414,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * zx | A tool for writing better scripts - https://github.com/google/zx
 * rimraf | A `rm -rf` util for nodejs - https://github.com/isaacs/rimraf
 * huggingface.js | Utilities to use the Hugging Face hub API - https://github.com/huggingface/huggingface.js
+* minisearch | Tiny and powerful JavaScript full-text search engine for browser and Node - https://github.com/lucaong/minisearch
