@@ -417,3 +417,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * minisearch | Tiny and powerful JavaScript full-text search engine for browser and Node - https://github.com/lucaong/minisearch
 * npkill | Easily find and remove old and heavy node_modules folders  - https://github.com/voidcosmos/npkill
 * concurrent.js | Non-blocking Computation for JavaScript RTEs (Web Browsers, Node.js & Deno) - https://github.com/bitair-org/concurrent.js
+* queue | Asynchronous function queue with adjustable concurrency - https://github.com/jessetane/queue
