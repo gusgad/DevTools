@@ -419,3 +419,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * concurrent.js | Non-blocking Computation for JavaScript RTEs (Web Browsers, Node.js & Deno) - https://github.com/bitair-org/concurrent.js
 * queue | Asynchronous function queue with adjustable concurrency - https://github.com/jessetane/queue
 * tachyon | Make your site faster than light in <1 minute; instant page loads in 723 bytes. - https://github.com/weebney/tachyon
+* file-type | Detect the file type of a Buffer/Uint8Array/ArrayBuffer - https://github.com/sindresorhus/file-type
