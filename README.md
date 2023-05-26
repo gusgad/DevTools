@@ -420,3 +420,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * queue | Asynchronous function queue with adjustable concurrency - https://github.com/jessetane/queue
 * tachyon | Make your site faster than light in <1 minute; instant page loads in 723 bytes. - https://github.com/weebney/tachyon
 * file-type | Detect the file type of a Buffer/Uint8Array/ArrayBuffer - https://github.com/sindresorhus/file-type
+* transformers.js | State-of-the-art Machine Learning for the web. - https://github.com/xenova/transformers.js
