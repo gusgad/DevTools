@@ -421,3 +421,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * tachyon | Make your site faster than light in <1 minute; instant page loads in 723 bytes. - https://github.com/weebney/tachyon
 * file-type | Detect the file type of a Buffer/Uint8Array/ArrayBuffer - https://github.com/sindresorhus/file-type
 * transformers.js | State-of-the-art Machine Learning for the web. - https://github.com/xenova/transformers.js
+* autocomplete | Fast and full-featured autocomplete library - https://github.com/algolia/autocomplete
+* tesseract.js | Pure Javascript OCR (Optical character recognition) for more than 100 Languages - https://github.com/naptha/tesseract.js
