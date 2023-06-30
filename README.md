@@ -423,3 +423,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * transformers.js | State-of-the-art Machine Learning for the web. - https://github.com/xenova/transformers.js
 * autocomplete | Fast and full-featured autocomplete library - https://github.com/algolia/autocomplete
 * tesseract.js | Pure Javascript OCR (Optical character recognition) for more than 100 Languages - https://github.com/naptha/tesseract.js
+* selecto | a component that allows you to select elements in the drag area using the mouse or touch - https://github.com/daybrush/selecto
+* auto-animate | A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. - https://github.com/formkit/auto-animate
+* kysely | A type-safe typescript SQL query builder - https://github.com/kysely-org/kysely
