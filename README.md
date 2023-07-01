@@ -426,3 +426,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * selecto | a component that allows you to select elements in the drag area using the mouse or touch - https://github.com/daybrush/selecto
 * auto-animate | A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. - https://github.com/formkit/auto-animate
 * kysely | A type-safe typescript SQL query builder - https://github.com/kysely-org/kysely
+* chalk.ist | Create beautiful images of your source code - https://github.com/Idered/chalk.ist
+* simple-statistics | simple statistics for node & browser javascript - https://github.com/simple-statistics/simple-statistics
+* shiki | A beautiful Syntax Highlighter. - https://github.com/shikijs/shiki
