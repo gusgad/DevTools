@@ -429,3 +429,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * chalk.ist | Create beautiful images of your source code - https://github.com/Idered/chalk.ist
 * simple-statistics | simple statistics for node & browser javascript - https://github.com/simple-statistics/simple-statistics
 * shiki | A beautiful Syntax Highlighter. - https://github.com/shikijs/shiki
+* MQTT.js | The MQTT client for Node.js and the browser - https://github.com/mqttjs/MQTT.js
