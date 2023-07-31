@@ -430,3 +430,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * simple-statistics | simple statistics for node & browser javascript - https://github.com/simple-statistics/simple-statistics
 * shiki | A beautiful Syntax Highlighter. - https://github.com/shikijs/shiki
 * MQTT.js | The MQTT client for Node.js and the browser - https://github.com/mqttjs/MQTT.js
+* background-removal-js | Remove backgrounds from images directly in the browser environment with ease  - https://github.com/imgly/background-removal-js
