@@ -432,3 +432,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * MQTT.js | The MQTT client for Node.js and the browser - https://github.com/mqttjs/MQTT.js
 * background-removal-js | Remove backgrounds from images directly in the browser environment with ease  - https://github.com/imgly/background-removal-js
 * hackathon-starter | A boilerplate for Node.js web applications - https://github.com/sahat/hackathon-starter
+* perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets - https://github.com/finos/perspective
