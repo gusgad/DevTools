@@ -433,3 +433,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * background-removal-js | Remove backgrounds from images directly in the browser environment with ease  - https://github.com/imgly/background-removal-js
 * hackathon-starter | A boilerplate for Node.js web applications - https://github.com/sahat/hackathon-starter
 * perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets - https://github.com/finos/perspective
+* ngraph.path |  Path finding in a graph - https://github.com/anvaka/ngraph.path
+* barba | Create badass, fluid and smooth transitions between your website’s pages. - https://github.com/barbajs/barba
