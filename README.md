@@ -435,3 +435,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets - https://github.com/finos/perspective
 * ngraph.path |  Path finding in a graph - https://github.com/anvaka/ngraph.path
 * barba | Create badass, fluid and smooth transitions between your website’s pages. - https://github.com/barbajs/barba
+* mikro-orm | TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. - https://github.com/mikro-orm/mikro-orm
