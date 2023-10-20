@@ -437,3 +437,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * barba | Create badass, fluid and smooth transitions between your website’s pages. - https://github.com/barbajs/barba
 * mikro-orm | TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. - https://github.com/mikro-orm/mikro-orm
 * selection | Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. - https://github.com/Simonwep/selection
+* Cronicle | A simple, distributed task scheduler and runner with a web based UI. - https://github.com/jhuckaby/Cronicle
