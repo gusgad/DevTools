@@ -439,3 +439,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * selection | Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. - https://github.com/Simonwep/selection
 * Cronicle | A simple, distributed task scheduler and runner with a web based UI. - https://github.com/jhuckaby/Cronicle
 * react-magic-motion | a react.js library that ✨ magically animates your components. - https://github.com/etesam913/react-magic-motion
+* main-thread-scheduling | Fast and consistently responsive apps using a single function call - https://github.com/astoilkov/main-thread-scheduling
