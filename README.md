@@ -440,3 +440,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * Cronicle | A simple, distributed task scheduler and runner with a web based UI. - https://github.com/jhuckaby/Cronicle
 * react-magic-motion | a react.js library that ✨ magically animates your components. - https://github.com/etesam913/react-magic-motion
 * main-thread-scheduling | Fast and consistently responsive apps using a single function call - https://github.com/astoilkov/main-thread-scheduling
+* perfume.js | Web performance library for measuring all performance vitals metrics - https://github.com/Zizzamia/perfume.js
