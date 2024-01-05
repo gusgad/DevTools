@@ -1,4 +1,5 @@
 # DevTools
+Use Ctrl + F to search for a specific keyword, for ex. "chart".
 ## A list of useful Web-development/Web-design tools and libraries for Frontend. (open to Pull requests)
 
 * Google webmaster guidelines - https://varvy.com/
