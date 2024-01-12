@@ -444,3 +444,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * perfume.js | Web performance library for measuring all performance vitals metrics - https://github.com/Zizzamia/perfume.js
 * lowdb | Simple and fast JSON database - https://github.com/typicode/lowdb
 * plotteus | Plotteus is a JavaScript data visualization library designed to help you tell better stories. - https://github.com/bprusinowski/plotteus
+* zip.js | library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. - https://github.com/gildas-lormeau/zip.js
