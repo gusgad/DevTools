@@ -449,3 +449,6 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * zip.js | library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. - https://github.com/gildas-lormeau/zip.js
 * Heat.js | A lightweight JavaScript library that generates customizable heat maps - https://github.com/williamtroup/Heat.js
 * dive | A tool for exploring each layer in a docker image - https://github.com/wagoodman/dive
+* atrament | A small JS library for beautiful drawing and handwriting on the HTML Canvas - https://github.com/jakubfiala/atrament
+* shiki | A beautiful yet powerful syntax highlighter - https://github.com/shikijs/shiki
+* perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets - https://github.com/finos/perspective
