@@ -452,3 +452,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * atrament | A small JS library for beautiful drawing and handwriting on the HTML Canvas - https://github.com/jakubfiala/atrament
 * shiki | A beautiful yet powerful syntax highlighter - https://github.com/shikijs/shiki
 * perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets - https://github.com/finos/perspective
+* fuzzysort | Fast SublimeText-like fuzzy search for JavaScript. - https://github.com/farzher/fuzzysort
