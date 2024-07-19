@@ -453,3 +453,7 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * shiki | A beautiful yet powerful syntax highlighter - https://github.com/shikijs/shiki
 * perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets - https://github.com/finos/perspective
 * fuzzysort | Fast SublimeText-like fuzzy search for JavaScript. - https://github.com/farzher/fuzzysort
+* bwip-js | Barcode Writer in Pure JavaScript - https://github.com/metafloor/bwip-js
+* tinybase | The reactive data store for local‑first apps. - https://github.com/tinyplex/tinybase
+* croner | Trigger functions or evaluate cron expressions in JavaScript or TypeScript - https://github.com/hexagon/croner
+* dgmjs | An infinite canvas with smart shapes - https://github.com/dgmjs/dgmjs
