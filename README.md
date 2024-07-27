@@ -457,3 +457,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * tinybase | The reactive data store for local‑first apps. - https://github.com/tinyplex/tinybase
 * croner | Trigger functions or evaluate cron expressions in JavaScript or TypeScript - https://github.com/hexagon/croner
 * dgmjs | An infinite canvas with smart shapes - https://github.com/dgmjs/dgmjs
+* litegraph.js | A graph node engine and editor written in Javascript  - https://github.com/jagenjo/litegraph.js
