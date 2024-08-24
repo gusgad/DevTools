@@ -459,3 +459,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * dgmjs | An infinite canvas with smart shapes - https://github.com/dgmjs/dgmjs
 * litegraph.js | A graph node engine and editor written in Javascript  - https://github.com/jagenjo/litegraph.js
 * calendar-link | Calendar link generator for popular services - https://github.com/AnandChowdhary/calendar-link
+* turf | A modular geospatial engine written in JavaScript and TypeScript - https://github.com/Turfjs/turf
