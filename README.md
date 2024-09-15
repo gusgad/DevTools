@@ -460,3 +460,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * litegraph.js | A graph node engine and editor written in Javascript  - https://github.com/jagenjo/litegraph.js
 * calendar-link | Calendar link generator for popular services - https://github.com/AnandChowdhary/calendar-link
 * turf | A modular geospatial engine written in JavaScript and TypeScript - https://github.com/Turfjs/turf
+* chartdb | Free and Open-source database diagrams editor, visualize and design your DB with a single query. - https://github.com/chartdb/chartdb
