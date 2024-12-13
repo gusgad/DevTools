@@ -464,3 +464,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * ts-remove-unused | Remove unused code from your TypeScript project - https://github.com/line/ts-remove-unused
 * style-observer | MutationObserver for CSS - https://github.com/bramus/style-observer
 * fetch-mock | Mock http requests made using fetch - https://github.com/wheresrhys/fetch-mock
+* termo | Termo is a simple terminal emulator for the browser. - https://github.com/rajnandan1/termo
