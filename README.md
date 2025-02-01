@@ -465,3 +465,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * style-observer | MutationObserver for CSS - https://github.com/bramus/style-observer
 * fetch-mock | Mock http requests made using fetch - https://github.com/wheresrhys/fetch-mock
 * termo | Termo is a simple terminal emulator for the browser. - https://github.com/rajnandan1/termo
+* jscanify | The Javascript document scanning library. - https://github.com/puffinsoft/jscanify
