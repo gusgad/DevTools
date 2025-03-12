@@ -3,7 +3,6 @@ Use Ctrl + F to search for a specific keyword, for ex. "chart".
 ## A list of useful Web-development/Web-design tools and libraries for Frontend. (open to Pull requests)
 
 * million | Optimize React performance and make your React 70% faster in minutes - https://github.com/aidenybai/million
-* 
 * Google webmaster guidelines - https://varvy.com/
 * Site analizer - https://www.site-analyzer.com/
 * Call to Idea | Material design patterns for websites - http://www.calltoidea.com/
@@ -466,3 +465,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * fetch-mock | Mock http requests made using fetch - https://github.com/wheresrhys/fetch-mock
 * termo | Termo is a simple terminal emulator for the browser. - https://github.com/rajnandan1/termo
 * jscanify | The Javascript document scanning library. - https://github.com/puffinsoft/jscanify
+* agents-json | open specification that formally describes contracts for API and agent interactions - https://github.com/wild-card-ai/agents-json?tab=readme-ov-file
