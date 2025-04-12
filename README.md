@@ -466,3 +466,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * termo | Termo is a simple terminal emulator for the browser. - https://github.com/rajnandan1/termo
 * jscanify | The Javascript document scanning library. - https://github.com/puffinsoft/jscanify
 * agents-json | open specification that formally describes contracts for API and agent interactions - https://github.com/wild-card-ai/agents-json?tab=readme-ov-file
+* bignumber.js | library for arbitrary-precision decimal and non-decimal arithmetic - https://github.com/MikeMcl/bignumber.js
