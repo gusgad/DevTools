@@ -467,3 +467,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * jscanify | The Javascript document scanning library. - https://github.com/puffinsoft/jscanify
 * agents-json | open specification that formally describes contracts for API and agent interactions - https://github.com/wild-card-ai/agents-json?tab=readme-ov-file
 * bignumber.js | library for arbitrary-precision decimal and non-decimal arithmetic - https://github.com/MikeMcl/bignumber.js
+* jsonrepair | Repair invalid JSON documents - https://github.com/josdejong/jsonrepair
+* cRonstrue | translates Cron expressions into human-readable descriptions - https://github.com/bradymholt/cRonstrue
