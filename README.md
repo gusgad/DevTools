@@ -469,3 +469,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * bignumber.js | library for arbitrary-precision decimal and non-decimal arithmetic - https://github.com/MikeMcl/bignumber.js
 * jsonrepair | Repair invalid JSON documents - https://github.com/josdejong/jsonrepair
 * cRonstrue | translates Cron expressions into human-readable descriptions - https://github.com/bradymholt/cRonstrue
+* es-toolkit | utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash - https://github.com/toss/es-toolkit
