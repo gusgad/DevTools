@@ -470,3 +470,5 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * jsonrepair | Repair invalid JSON documents - https://github.com/josdejong/jsonrepair
 * cRonstrue | translates Cron expressions into human-readable descriptions - https://github.com/bradymholt/cRonstrue
 * es-toolkit | utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash - https://github.com/toss/es-toolkit
+* uppy | The next open source file uploader for web browsers - https://github.com/transloadit/uppy
+* sidequest | a modern, scalable background job processor for Node.js applications - https://github.com/sidequestjs/sidequest
