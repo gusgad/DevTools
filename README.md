@@ -472,3 +472,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * es-toolkit | utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash - https://github.com/toss/es-toolkit
 * uppy | The next open source file uploader for web browsers - https://github.com/transloadit/uppy
 * sidequest | a modern, scalable background job processor for Node.js applications - https://github.com/sidequestjs/sidequest
+* Obs.js | Context-aware web performance for everyone - https://github.com/csswizardry/Obs.js
