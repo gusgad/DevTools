@@ -474,3 +474,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * sidequest | a modern, scalable background job processor for Node.js applications - https://github.com/sidequestjs/sidequest
 * Obs.js | Context-aware web performance for everyone - https://github.com/csswizardry/Obs.js
 * spoilerjs | A framework-agnostic web component for creating beautiful spoiler effects - https://github.com/shajidhasan/spoilerjs
+* InDom | <4KB stack-agnostic modern JavaScript DOM library with automatic cleanup and ergonomic DOM/form helpers. - https://github.com/constcallid/indom
