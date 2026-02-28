@@ -476,3 +476,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * spoilerjs | A framework-agnostic web component for creating beautiful spoiler effects - https://github.com/shajidhasan/spoilerjs
 * verifyfetch | Resumable, verified downloads for large browser files. Fail at 3.8GB, resume from 3.8GB. - https://github.com/hamzaydia/verifyfetch
 * otpauth | One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers. - https://github.com/hectorm/otpauth
+* slowmo | slow down animations - https://github.com/seflless/slowmo
