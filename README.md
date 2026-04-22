@@ -478,3 +478,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * otpauth | One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers. - https://github.com/hectorm/otpauth
 * slowmo | slow down animations - https://github.com/seflless/slowmo
 * numpy-ts | Full NumPy, in TypeScript/JavaScript - https://github.com/dupontcyborg/numpy-ts
+* officeParser - library for parsing office files (docx, pptx, xlsx, odt, odp, ods, pdf, rtf). - https://github.com/harshankur/officeParser
