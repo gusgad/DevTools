@@ -480,3 +480,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * numpy-ts | Full NumPy, in TypeScript/JavaScript - https://github.com/dupontcyborg/numpy-ts
 * officeParser | library for parsing office files (docx, pptx, xlsx, odt, odp, ods, pdf, rtf). - https://github.com/harshankur/officeParser
 * opentype.js | Read and write OpenType fonts using JavaScript. - https://github.com/opentypejs/opentype.js
+* perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets. - https://github.com/perspective-dev/perspective
