@@ -481,3 +481,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * officeParser | library for parsing office files (docx, pptx, xlsx, odt, odp, ods, pdf, rtf). - https://github.com/harshankur/officeParser
 * opentype.js | Read and write OpenType fonts using JavaScript. - https://github.com/opentypejs/opentype.js
 * perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets. - https://github.com/perspective-dev/perspective
+* geometric | A JavaScript library for doing geometry. - https://github.com/HarryStevens/geometric
