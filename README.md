@@ -483,3 +483,4 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * perspective | A data visualization and analytics component, especially well-suited for large and/or streaming datasets. - https://github.com/perspective-dev/perspective
 * geometric | A JavaScript library for doing geometry. - https://github.com/HarryStevens/geometric
 * termdom | Build terminal apps with HTML, CSS and DOM. - https://github.com/bikeshaving/termdom
+* uppy | The next open source file uploader for web browsers - https://github.com/transloadit/uppy
