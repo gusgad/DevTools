@@ -411,6 +411,7 @@ push notification delivery - https://github.com/OneSignal/OneSignal-Website-SDK
 * yup | Dead simple Object schema validation - https://github.com/jquense/yup
 * javascript-obfuscator | A powerful obfuscator for JavaScript and Node.js - https://github.com/javascript-obfuscator/javascript-obfuscator
 * pythagora | Generate integration tests for your Node.js app by recording server activity without writing a single line of code. - https://github.com/Pythagora-io/pythagora
+* Agent QA | Run natural-language web and mobile regression tests through a CLI or MCP, with reviewable execution evidence. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years. - https://github.com/vostride/agent-qa
 * urban-bot | The universal chatbot library based on React. - https://github.com/urban-bot/urban-bot
 * lenis | How smooth scroll should be - https://github.com/studio-freight/lenis
 * zx | A tool for writing better scripts - https://github.com/google/zx
